@@ -1,0 +1,6 @@
+title,slug,id,has_published_retractions,has_peer_reviewed_articles,home_url
+Aeon,aeon,1513,false,false,https://aeon.co
+Apple,apple,1515,true,false,https://www.apple.com
+JSTOR,jstor,1514,false,true,https://www.jstor.org
+KQED,kqed,1512,true,false,https://www.kqed.org
+Reporting by Matt Taibbi,reporting-by-matt-taibbi,1911,false,false,https://taibbi.substack.com
