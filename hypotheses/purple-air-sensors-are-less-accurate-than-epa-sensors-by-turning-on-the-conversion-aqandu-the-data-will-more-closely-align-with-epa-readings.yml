@@ -7,13 +7,5 @@
 :created_timestamp: '2020-09-12T15:39:10Z'
 :tag_titles:
 - Environment
-:citations:
-- :title: Making Sense of Purple Air vs. AirNow, and a New Map to Rule Them All
-  :slug: kqed-org-making-sense-of-purple-air-vs-airnow-and-a-new-map-to-rule-them-all
-  :id: 1105
-  :url: https://www.kqed.org/science/1969271/making-sense-of-purple-air-vs-airnow-and-a-new-map-to-rule-them-all
-  :kind: article
-  :publication_slug: kqed
-  :published_date: 
-  :authors:
-  - Kevin Stark
+:citation_urls:
+- https://www.kqed.org/science/1969271/making-sense-of-purple-air-vs-airnow-and-a-new-map-to-rule-them-all
