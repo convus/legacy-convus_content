@@ -1,8 +1,11 @@
 title,slug,id,has_published_retractions,has_peer_reviewed_articles,home_url
 Aeon,aeon,1513,false,false,https://aeon.co
 Apple,apple,1515,true,false,https://www.apple.com
+healthaffairs.org,healthaffairs-org,1916,false,false,https://www.healthaffairs.org
+journals.uchicago.edu,journals-uchicago-edu,1914,false,false,https://www.journals.uchicago.edu
 JSTOR,jstor,1514,false,true,https://www.jstor.org
 KQED,kqed,1512,true,false,https://www.kqed.org
+nature.com,nature-com,1915,false,false,https://www.nature.com
 nejm.org,nejm-org,1913,false,false,https://www.nejm.org
 Reporting by Matt Taibbi,reporting-by-matt-taibbi,1911,false,false,https://taibbi.substack.com
 researchgate.net,researchgate-net,1912,false,false,https://www.researchgate.net
