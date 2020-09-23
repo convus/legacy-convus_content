@@ -1,20 +1,21 @@
-title,id,slug,taxonomy
-and improve educators well being in a time of increased teacher dissatisfaction.,14,and-improve-educators-well-being-in-a-time-of-increased-teacher-dissatisfaction,
-Art & Crafts,2,art-amp-crafts,family_rank
-cognitive capacity,18,cognitive-capacity,
-cope effectively with their own emotional reactivity to student behaviors,13,cope-effectively-with-their-own-emotional-reactivity-to-student-behaviors,
-COVID-19,19,covid-19,
-COVID-19 immunity,16,covid-19-immunity,
-Environment,8,environment,family_rank
-Events & News,4,events-amp-news,family_rank
-Food,10,food,family_rank
-Health,11,health,family_rank
-long term COVID-19 effects,20,long-term-covid-19-effects,
-Mars,7,mars,family_rank
-Masks,15,masks,
-Other planets,6,other-planets,family_rank
-Places,9,places,family_rank
-Religion & Spirituality,3,religion-amp-spirituality,family_rank
-Smartphone,17,smartphone,
-The sun,5,the-sun,family_rank
-Yoga and mindfulness can help teachers provide a positive classroom environment,12,yoga-and-mindfulness-can-help-teachers-provide-a-positive-classroom-environment,
+title,id,taxonomy
+and improve educators well being in a time of increased teacher dissatisfaction.,14,
+Art & Crafts,2,family_rank
+cognitive capacity,18,
+cope effectively with their own emotional reactivity to student behaviors,13,
+COVID-19,19,
+COVID-19 immunity,16,
+Environment,8,family_rank
+Events & News,4,family_rank
+Food,10,family_rank
+Health,11,family_rank
+long term COVID-19 effects,20,
+Mars,7,family_rank
+Masks,15,
+Other planets,6,family_rank
+Places,9,family_rank
+Religion & Spirituality,3,family_rank
+Smartphone,17,
+The sun,5,family_rank
+water,21,
+Yoga and mindfulness can help teachers provide a positive classroom environment,12,
