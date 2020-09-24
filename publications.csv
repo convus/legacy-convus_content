@@ -1,6 +1,7 @@
 title,id,has_published_retractions,has_peer_reviewed_articles,home_url
 Aeon,1513,false,false,https://aeon.co
 Apple,1515,true,false,https://www.apple.com
+cochranelibrary.com,1918,false,false,https://www.cochranelibrary.com
 Health Affairs,1916,false,true,https://www.healthaffairs.org
 Journal of American College Health,1912,false,false,https://www.researchgate.net
 Journal of the Association for Consumer Research,1914,false,true,https://www.journals.uchicago.edu
