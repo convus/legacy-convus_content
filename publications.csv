@@ -4,7 +4,7 @@ Apple,1515,false,true,false,https://www.apple.com
 cochranelibrary.com,1918,false,false,false,https://www.cochranelibrary.com
 Health Affairs,1916,false,false,true,https://www.healthaffairs.org
 Journal of American College Health,1912,true,false,false,https://www.researchgate.net
-The University of Chicago Press Journals,1914,true,false,true,https://www.journals.uchicago.edu
+Journal of the Association for Consumer Research,1920,,false,false,
 JSTOR,1514,true,false,true,https://www.jstor.org
 KQED,1512,false,true,false,https://www.kqed.org
 nature.com,1915,false,false,true,https://www.nature.com
@@ -12,3 +12,4 @@ ncbi.nlm.nih.gov,1917,false,false,true,https://www.ncbi.nlm.nih.gov
 Reporting by Matt Taibbi,1911,false,false,false,https://taibbi.substack.com
 tandfonline.com,1919,false,false,false,https://www.tandfonline.com
 The New England Journal of Medicine,1913,false,false,true,https://www.nejm.org
+The University of Chicago Press Journals,1914,true,false,true,https://www.journals.uchicago.edu
