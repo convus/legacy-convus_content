@@ -1,14 +1,14 @@
-title,id,has_published_retractions,has_peer_reviewed_articles,home_url
-Aeon,1513,false,false,https://aeon.co
-Apple,1515,true,false,https://www.apple.com
-cochranelibrary.com,1918,false,false,https://www.cochranelibrary.com
-Health Affairs,1916,false,true,https://www.healthaffairs.org
-Journal of American College Health,1912,false,false,https://www.researchgate.net
-Journal of the Association for Consumer Research,1914,false,true,https://www.journals.uchicago.edu
-JSTOR,1514,false,true,https://www.jstor.org
-KQED,1512,true,false,https://www.kqed.org
-nature.com,1915,false,true,https://www.nature.com
-ncbi.nlm.nih.gov,1917,false,true,https://www.ncbi.nlm.nih.gov
-Reporting by Matt Taibbi,1911,false,false,https://taibbi.substack.com
-tandfonline.com,1919,false,false,https://www.tandfonline.com
-The New England Journal of Medicine,1913,false,true,https://www.nejm.org
+title,id,meta_publication,has_published_retractions,has_peer_reviewed_articles,home_url
+Aeon,1513,false,false,false,https://aeon.co
+Apple,1515,false,true,false,https://www.apple.com
+cochranelibrary.com,1918,false,false,false,https://www.cochranelibrary.com
+Health Affairs,1916,false,false,true,https://www.healthaffairs.org
+Journal of American College Health,1912,false,false,false,https://www.researchgate.net
+Journal of the Association for Consumer Research,1914,false,false,true,https://www.journals.uchicago.edu
+JSTOR,1514,false,false,true,https://www.jstor.org
+KQED,1512,false,true,false,https://www.kqed.org
+nature.com,1915,false,false,true,https://www.nature.com
+ncbi.nlm.nih.gov,1917,false,false,true,https://www.ncbi.nlm.nih.gov
+Reporting by Matt Taibbi,1911,false,false,false,https://taibbi.substack.com
+tandfonline.com,1919,false,false,false,https://www.tandfonline.com
+The New England Journal of Medicine,1913,false,false,true,https://www.nejm.org
