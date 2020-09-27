@@ -1,18 +1,18 @@
-title,id,meta_publication,has_published_retractions,has_peer_reviewed_articles,home_url
-Aeon,1513,false,false,false,https://aeon.co
-Apple,1515,false,true,false,https://www.apple.com
-Cochrane Library,1918,false,false,true,https://www.cochranelibrary.com
-evidencebasedbirth.com,1922,false,false,false,https://evidencebasedbirth.com
-Health Affairs,1916,false,false,true,https://www.healthaffairs.org
-Journal of American College Health,1921,,false,false,
-Journal of the Association for Consumer Research,1920,false,false,true,https://www.acrwebsite.org
-JSTOR,1514,true,false,true,https://www.jstor.org
-KQED,1512,false,true,false,https://www.kqed.org
-National Center for Biotechnology Information,1917,false,false,true,https://www.ncbi.nlm.nih.gov
-nature.com,1915,false,false,true,https://www.nature.com
-Reporting by Matt Taibbi,1911,false,false,false,https://taibbi.substack.com
-Research Gate,1912,true,false,true,https://www.researchgate.net
-slatestarcodex.com,1923,false,false,false,https://slatestarcodex.com
-Taylor & Francis Online,1919,true,false,true,https://www.tandfonline.com
-The New England Journal of Medicine,1913,false,false,true,https://www.nejm.org
-The University of Chicago Press Journals,1914,true,false,true,https://www.journals.uchicago.edu
+title,id,meta_publication,has_published_retractions,has_peer_reviewed_articles,impact_factor,home_url
+Aeon,1513,false,false,false,,https://aeon.co
+Apple,1515,false,true,false,,https://www.apple.com
+Cochrane Library,1918,false,false,true,,https://www.cochranelibrary.com
+evidencebasedbirth.com,1922,false,false,false,,https://evidencebasedbirth.com
+Health Affairs,1916,false,false,true,,https://www.healthaffairs.org
+Journal of American College Health,1921,,false,false,,
+Journal of the Association for Consumer Research,1920,false,false,true,,https://www.acrwebsite.org
+JSTOR,1514,true,false,true,,https://www.jstor.org
+KQED,1512,false,true,false,,https://www.kqed.org
+National Center for Biotechnology Information,1917,false,false,true,,https://www.ncbi.nlm.nih.gov
+nature.com,1915,false,false,true,,https://www.nature.com
+Reporting by Matt Taibbi,1911,false,false,false,,https://taibbi.substack.com
+Research Gate,1912,true,false,true,,https://www.researchgate.net
+slatestarcodex.com,1923,false,false,false,,https://slatestarcodex.com
+Taylor & Francis Online,1919,true,false,true,,https://www.tandfonline.com
+The New England Journal of Medicine,1913,false,false,true,,https://www.nejm.org
+The University of Chicago Press Journals,1914,true,false,true,,https://www.journals.uchicago.edu
