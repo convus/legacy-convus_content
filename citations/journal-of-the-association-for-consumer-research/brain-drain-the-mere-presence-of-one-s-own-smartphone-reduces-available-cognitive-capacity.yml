@@ -2,11 +2,13 @@
 title: 'Brain Drain: The Mere Presence of One’s Own Smartphone Reduces Available Cognitive
   Capacity'
 id: 1605
+peer_reviewed: true
+randomized_controlled_trial: false
+url_is_not_publisher:
+url_is_direct_link_to_full_text: false
 url: https://www.journals.uchicago.edu/doi/full/10.1086/691462
-url_is_not_publisher: 
-kind: open_access_peer_reviewed
 publication_title: Journal of the Association for Consumer Research
-published_date: 
+published_date:
 authors:
 - Adrian F. Ward
 - Kristen Duke

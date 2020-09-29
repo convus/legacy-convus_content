@@ -2,11 +2,13 @@
 title: The effect of water temperature and voluntary drinking on the post rehydration
   sweating
 id: 1608
-url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762624/pdf/ijcem0006-0683.pdf
+peer_reviewed: true
+randomized_controlled_trial: false
 url_is_not_publisher: false
-kind: open_access_peer_reviewed
+url_is_direct_link_to_full_text: true
+url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762624/pdf/ijcem0006-0683.pdf
 publication_title: National Center for Biotechnology Information
-published_date: 
+published_date:
 authors:
 - Abdollah Hosseinlou
 - Saeed Khamnei
