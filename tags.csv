@@ -1,6 +1,8 @@
 title,id,taxonomy
+ADHD,78,
 Air Quality,50,
 Art & Crafts,2,family_rank
+Attention Deficit Disorder,76,
 Bias,68,
 Cats,51,
 Circumcision,27,
@@ -15,6 +17,7 @@ Current events,56,
 Democracy,25,
 Diet,29,
 Donald Trump,55,
+Dopamine,79,
 Education,44,
 Environment,8,family_rank
 Environmentalism,30,
@@ -38,6 +41,7 @@ Mars,7,family_rank
 Masks,15,
 Media,57,
 Mindfulness,62,
+Motivation,77,
 New York City,74,
 Other planets,6,family_rank
 personality,47,
