@@ -1,6 +1,7 @@
 title,id,meta_publication,has_published_retractions,has_peer_reviewed_articles,impact_factor,home_url
 Aeon,1513,false,false,false,,https://aeon.co
 Apple,1515,false,true,false,,https://www.apple.com
+Bureau of Justice Statistics,1932,false,false,false,,https://www.bjs.gov
 Cochrane Library,1918,false,false,true,,https://www.cochranelibrary.com
 Evidence Based Birth,1922,false,false,false,,https://evidencebasedbirth.com
 FBI Uniform Crime reporting,1930,false,false,false,,https://ucr.fbi.gov
