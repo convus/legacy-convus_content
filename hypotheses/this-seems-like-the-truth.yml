@@ -1,0 +1,14 @@
+---
+title: This seems like the truth
+id: 768
+cited_urls:
+- url: https://something-of.org/interest-asdfasdf
+  quotes:
+  - First quote from this literature
+  - Second quote, which is cool
+- url: https://example.com/something-of-interest
+  quotes:
+  - This is a thing
+topics:
+- economy
+- parties
