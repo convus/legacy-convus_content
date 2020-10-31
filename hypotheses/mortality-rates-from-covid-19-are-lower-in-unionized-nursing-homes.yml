@@ -1,9 +1,9 @@
 ---
 title: Mortality rates from COVID-19 are lower in unionized nursing homes
 id: 2206
-direct_quotation: true
-citation_urls:
-- https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2020.01011
+cited_urls:
+- url: https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2020.01011
+  quotes: []
 topics:
 - COVID-19
 - Health

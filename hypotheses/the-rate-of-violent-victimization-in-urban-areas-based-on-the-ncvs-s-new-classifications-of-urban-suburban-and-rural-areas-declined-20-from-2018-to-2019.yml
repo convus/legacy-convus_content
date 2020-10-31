@@ -2,9 +2,9 @@
 title: The rate of violent victimization in urban areas—based on the NCVS's new classifications
   of urban, suburban, and rural areas—declined 20% from 2018 to 2019
 id: 2235
-direct_quotation: true
-citation_urls:
-- https://www.bjs.gov/index.cfm?ty=pbdetail&iid=7046
+cited_urls:
+- url: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=7046
+  quotes: []
 topics:
 - Cities
 - Crime

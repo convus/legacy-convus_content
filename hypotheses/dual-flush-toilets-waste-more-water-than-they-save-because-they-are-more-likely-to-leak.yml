@@ -2,9 +2,9 @@
 title: Dual-flush toilets waste more water than they save because they are more likely
   to leak
 id: 2218
-direct_quotation: false
-citation_urls:
-- https://www.theguardian.com/environment/2020/sep/29/dual-flush-toilets-wasting-more-water-than-they-save
+cited_urls:
+- url: https://www.theguardian.com/environment/2020/sep/29/dual-flush-toilets-wasting-more-water-than-they-save
+  quotes: []
 topics:
 - Environment
 - Toilets
