@@ -3,9 +3,9 @@ title: In New York City, shooting victims are most frequently Black (71.4%) or H
   (24.2%). White victims account for an additional (2.5%) of all Shooting victims
   while Asian/Pacific Islanders victims account for (1.9%) of all Shooting Victims.
 id: 2222
-direct_quotation: false
-citation_urls:
-- https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
+cited_urls:
+- url: https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
+  quotes: []
 topics:
 - Crime
 - New York City

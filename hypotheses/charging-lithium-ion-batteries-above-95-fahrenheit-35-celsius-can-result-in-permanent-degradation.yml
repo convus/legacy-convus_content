@@ -2,9 +2,9 @@
 title: Charging Lithium Ion batteries above 95 Fahrenheit (35 celsius) can result
   in permanent degradation.
 id: 2112
-direct_quotation: true
-citation_urls:
-- https://www.apple.com/batteries/maximizing-performance
+cited_urls:
+- url: https://www.apple.com/batteries/maximizing-performance
+  quotes: []
 topics:
 - Environment
 - Lithium-ion batteries

@@ -2,9 +2,9 @@
 title: Leaving your lithium-ion battery powered device plugged in will increase its
   battery lifespan
 id: 2114
-direct_quotation: false
-citation_urls:
-- https://www.apple.com/batteries/why-lithium-ion
+cited_urls:
+- url: https://www.apple.com/batteries/why-lithium-ion
+  quotes: []
 topics:
 - Environment
 - Lithium-ion batteries

@@ -1,9 +1,9 @@
 ---
 title: 'COVID-19 incomplete recovery, with fluctuating symptoms, are common. '
 id: 2205
-direct_quotation: false
-citation_urls:
-- https://www.nature.com/articles/d41586-020-02335-z
+cited_urls:
+- url: https://www.nature.com/articles/d41586-020-02335-z
+  quotes: []
 topics:
 - COVID-19
 - Long term COVID-19 effects

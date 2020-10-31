@@ -2,9 +2,9 @@
 title: Numerous model animal studies have shown a link between calorie restriction,
   reduced mortality, and life extension.
 id: 2213
-direct_quotation: true
-citation_urls:
-- https://slatestarcodex.com/2019/12/12/acc-does-calorie-restriction-slow-aging
+cited_urls:
+- url: https://slatestarcodex.com/2019/12/12/acc-does-calorie-restriction-slow-aging
+  quotes: []
 topics:
 - Fasting
 - Health
