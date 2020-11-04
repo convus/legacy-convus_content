@@ -1,14 +1,15 @@
 ---
 title: pmc/articles/PMC4101544
 id: 1629
-peer_reviewed: false
+peer_reviewed: true
 randomized_controlled_trial: false
-url_is_not_publisher: false
-url_is_direct_link_to_full_text: false
+url_is_not_publisher: true
+url_is_direct_link_to_full_text: true
 url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4101544
-publication_title: National Center for Biotechnology Information
-published_date: 
-authors: 
+publication_title: Drug Discov Today Technology
+published_date: 2014-06
+authors:
+- Weiwei Dang
 quotes:
 - several controversial issues around sirtuins and their functions in aging, calorie
   restriction, as well as age-related diseases
