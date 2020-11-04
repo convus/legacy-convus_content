@@ -1,14 +1,17 @@
 ---
-title: pmc/articles/PMC5514220
+title: Sirtuins, a promising target in slowing down the ageing process
 id: 1630
-peer_reviewed: false
+peer_reviewed: true
 randomized_controlled_trial: false
-url_is_not_publisher: false
-url_is_direct_link_to_full_text: false
+url_is_not_publisher: true
+url_is_direct_link_to_full_text: true
 url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5514220
-publication_title: National Center for Biotechnology Information
-published_date: 
+publication_title: Biogerontology
+published_date: 2017-03-3
 authors: 
+- Wioleta Grabowska
+- Ewa Sikora
+- Anna Bielak-Zmijewska
 quotes:
 - One of the most promising targets for anti-ageing approaches are proteins belonging
   to the sirtuin family
