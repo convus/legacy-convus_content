@@ -1,4 +1,5 @@
 title,id,meta_publication,has_published_retractions,has_peer_reviewed_articles,impact_factor,home_url
+AAP News,1937,false,false,false,,https://www.aappublications.org
 Aeon,1513,false,false,false,,https://aeon.co
 Apple,1515,false,true,false,,https://www.apple.com
 Bureau of Justice Statistics,1932,false,false,false,,https://www.bjs.gov
@@ -11,6 +12,7 @@ Journal of Personality and Social Psychology,1927,false,false,false,,https://con
 Journal of the Association for Consumer Research,1920,false,false,true,,https://www.acrwebsite.org
 JSTOR,1514,true,false,true,,https://www.jstor.org
 KQED,1512,false,true,false,,https://www.kqed.org
+Lyme Science,1936,false,false,false,,https://lymescience.org
 Mother Jones,1924,false,false,false,,https://www.motherjones.com
 National Bureau of Economic Research,1934,false,false,false,,https://www.nber.org
 National Center for Biotechnology Information,1917,false,false,true,,https://www.ncbi.nlm.nih.gov
