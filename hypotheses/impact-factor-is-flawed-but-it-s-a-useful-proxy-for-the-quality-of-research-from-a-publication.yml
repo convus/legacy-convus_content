@@ -16,9 +16,17 @@ cited_urls:
     seems to be no alternative to qualified experts reading the publications.'
 - url: https://en.wikipedia.org/wiki/Impact_factor
   quotes:
-  - It is frequently used as a proxy for the relative importance of a journal within its field; journals with higher impact factors are often deemed to be more important than those with lower ones.
-  - Journal impact factors are often used to evaluate the merit of individual articles and individual researchers.
-  - Empirical evidence shows that the misuse of the JIF – and journal ranking metrics in general – has a number of negative consequences for the scholarly communication system. These include confusion between outreach of a journal and the quality of individual papers and insufficient coverage of social sciences and humanities as well as research outputs from across Latin America, Africa, and South-East Asia.
+  - It is frequently used as a proxy for the relative importance of a journal within
+    its field; journals with higher impact factors are often deemed to be more important
+    than those with lower ones.
+  - Journal impact factors are often used to evaluate the merit of individual articles
+    and individual researchers.
+  - Empirical evidence shows that the misuse of the JIF – and journal ranking metrics
+    in general – has a number of negative consequences for the scholarly communication
+    system. These include confusion between outreach of a journal and the quality
+    of individual papers and insufficient coverage of social sciences and humanities
+    as well as research outputs from across Latin America, Africa, and South-East
+    Asia.
 topics:
 - Impact factor
 - Peer review
