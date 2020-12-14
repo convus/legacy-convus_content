@@ -22,6 +22,7 @@ cited_urls:
   - cost estimates are based on 15,000 miles per year at 3.70 per gallon
   - Combined fuel economy is a weighted average of City and Highway MPG values that
     is calculated by weighting the City value by 55% and the Highway value by 45%.
+refuted_by_hypotheses: []
 topics:
 - Cars
 - Emissions
