@@ -13,7 +13,8 @@ cited_urls:
     over- turns the prior finding that the Mariel boatlift did not affect Miami’s
     wage structure. The wage of high school dropouts in Miami dropped dramatically,
     by 10 to 30%
-refuted_by_hypotheses: []
+refuted_by_hypotheses:
+- immigration-has-very-little-impact-on-wages-for-domestic-workers
 topics:
 - economics
 - immigration
