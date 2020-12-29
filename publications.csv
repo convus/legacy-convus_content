@@ -1,5 +1,6 @@
 title,id,meta_publication,has_published_retractions,has_peer_reviewed_articles,impact_factor,home_url
 AAP News,1937,false,true,true,,https://www.aappublications.org
+aeaweb.org,1963,false,false,false,,https://www.aeaweb.org
 Aeon,1513,false,false,false,,https://aeon.co
 Annals of Internal Medicine,1948,false,false,false,,https://www.acpjournals.org
 Apple,1515,false,true,false,,https://www.apple.com
@@ -9,6 +10,7 @@ BMJ Nutrition,1953,true,false,false,,
 Bureau of Justice Statistics,1932,false,false,false,,https://www.bjs.gov
 Center for Global Development,1952,false,false,false,,https://www.cgdev.org
 Cochrane Library,1918,false,false,true,,https://www.cochranelibrary.com
+economics.mit.edu,1962,false,false,false,,https://economics.mit.edu
 Evidence Based Birth,1922,false,false,false,,https://evidencebasedbirth.com
 FBI Uniform Crime reporting,1930,false,false,false,,https://ucr.fbi.gov
 Flat Earth Society Wiki,1949,false,false,false,,https://wiki.tfes.org
@@ -16,6 +18,7 @@ fueleconomy.gov,1941,false,false,false,,https://fueleconomy.gov
 Health Affairs,1916,false,false,true,,https://www.healthaffairs.org
 Industrial and Labor Relations Review,1951,false,false,false,,https://scholar.harvard.edu
 int.nyt.com,1955,false,false,false,,https://int.nyt.com
+jhr.uwpress.org,1960,false,false,false,,http://jhr.uwpress.org
 Journal of American College Health,1921,,false,false,,
 Journal of Personality and Social Psychology,1927,false,false,false,,https://content.apa.org
 Journal of the Association for Consumer Research,1920,false,false,true,,https://www.acrwebsite.org
@@ -24,6 +27,7 @@ KQED,1512,false,true,false,,https://www.kqed.org
 Lyme Science,1936,false,false,false,,https://lymescience.org
 Migration Policy Institute,1959,false,false,false,,https://www.migrationpolicy.org
 Mother Jones,1924,false,true,false,,https://www.motherjones.com
+nap.edu,1961,false,false,false,,https://www.nap.edu
 National Bureau of Economic Research,1934,false,false,false,,https://www.nber.org
 National Center for Biotechnology Information,1917,false,false,true,,https://www.ncbi.nlm.nih.gov
 Nature,1915,false,true,true,,https://www.nature.com
