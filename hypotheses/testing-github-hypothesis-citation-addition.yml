@@ -1,0 +1,13 @@
+---
+title: Testing GitHub Hypothesis Citation addition
+id: 42
+cited_urls:
+- url: https://example.com/hypothesis_citation-1
+  quotes:
+  - Some quote here
+refuted_by_hypotheses: []
+topics: []
+new_cited_url:
+- url: https://testing.convus.org/examples/etc
+  quotes:
+  - whooooooo
