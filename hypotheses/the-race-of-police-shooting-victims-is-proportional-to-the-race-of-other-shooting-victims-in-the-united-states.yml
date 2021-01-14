@@ -20,15 +20,15 @@ cited_urls:
     Hispanic suspects accounted for an additional (22.0%) of all suspects. White suspects
     (2.4%) and Asian/Pacific Islander suspects (1.1%) accounted for the remaining
     portion of known Shooting suspects.
+- url: https://ucr.fbi.gov/leoka/2019/tables/table-15.xls
+  quotes:
+  - In 2019, of the 48 police officers killed feloniously in the U.S., 40 were white
+    (83%), seven were black(15%), and one (2%) was other
 - url: https://ucr.fbi.gov/leoka/2019/tables/table-42.xls
   quotes:
   - In 2019, of the 49 known offenders who killed police officers in the U.S., 28
     were white (57%), 15 were black (31%), and one was other (2%). Five were unknown.
     (10%)
-- url: https://ucr.fbi.gov/leoka/2019/tables/table-15.xls
-  quotes:
-  - In 2019, of the 48 police officers killed feloniously in the U.S., 40 were white
-    (83%), seven were black(15%), and one (2%) was other
 refuted_by_hypotheses: []
 topics:
 - Crime

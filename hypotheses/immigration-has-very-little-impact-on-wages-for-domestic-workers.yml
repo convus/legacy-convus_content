@@ -10,6 +10,10 @@ cited_urls:
     the case with humans, Clemens says, whose research shows that as more people arrive
     in a local economy, demand for goods and services such as housing and food also
     increases.
+- url: https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
+  quotes:
+  - when measured over a period of more than 10 years, the impact of immigration on
+    the wages of natives overall is very small
 - url: https://journals.sagepub.com/doi/10.1177/001979399204500310
   quotes:
   - This paper uses census data to examine the impact on the French labor market of
@@ -29,10 +33,6 @@ cited_urls:
     control group on a short pre-1979 series, as done in Borjas (2017), one can find
     large wage differences between Miami and control because of large measurement
     error.
-- url: https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
-  quotes:
-  - when measured over a period of more than 10 years, the impact of immigration on
-    the wages of natives overall is very small
 - url: https://economics.mit.edu/files/13646
   quotes:
   - I exploit exogenous variation in European immigration to US cities between 1910
