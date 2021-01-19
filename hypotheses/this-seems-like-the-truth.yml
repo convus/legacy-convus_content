@@ -1,0 +1,18 @@
+---
+title: This seems like the truth
+id: 174
+cited_urls:
+- url: https://something-of.org/interest-asdfasdf
+  quotes:
+  - First quote from this literature
+  - Second quote, which is cool
+  challenges:
+- url: https://example.com/something-of-interest
+  quotes:
+  - This is a thing
+  challenges:
+new_cited_url:
+refuted_by_hypotheses: []
+topics:
+- economy
+- parties
