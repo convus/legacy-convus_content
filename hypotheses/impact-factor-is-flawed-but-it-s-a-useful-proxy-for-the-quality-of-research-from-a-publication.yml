@@ -14,6 +14,7 @@ cited_urls:
     than of scientific quality, and authors’ selection of references is subject to
     strong biases unrelated to quality. For evaluation of scientific quality, there
     seems to be no alternative to qualified experts reading the publications.'
+  challenges: 
 - url: https://en.wikipedia.org/wiki/Impact_factor
   quotes:
   - It is frequently used as a proxy for the relative importance of a journal within
@@ -27,6 +28,8 @@ cited_urls:
     of individual papers and insufficient coverage of social sciences and humanities
     as well as research outputs from across Latin America, Africa, and South-East
     Asia.
+  challenges: 
+new_cited_url: 
 refuted_by_hypotheses: []
 topics:
 - Impact factor

@@ -8,10 +8,13 @@ cited_urls:
     number of newcomers from other countries responding positively to "Threatens traditional
     American customs and values" - Wyoming: 48%, West Virginia: 47%, Alabama: 47%,
     Kentucky: 44%, Arkansas: 44% (from a table in the source)'
+  challenges: 
 - url: https://www.migrationpolicy.org/programs/data-hub/charts/us-immigrant-population-state-and-county
   quotes:
   - 'Total share of immigrants from all counties: Wyoming: 0%, West Virginia: 0%,
     Alabama: 0%, Kentucky: 0%, Arkansas: 0%'
+  challenges: 
+new_cited_url: 
 refuted_by_hypotheses: []
 topics:
 - Immigration

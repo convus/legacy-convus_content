@@ -15,6 +15,7 @@ cited_urls:
     to make up the difference in cost.
   - We named the RAV4 Hybrid our 2020 Best Car for the Money in the hybrid and electric
     SUV class.
+  challenges: 
 - url: https://fueleconomy.gov/feg/label/learn-more-gasoline-label.shtml
   quotes:
   - 'The annual fuel cost is based on two assumptions: an annual mileage of 15,000
@@ -22,6 +23,8 @@ cited_urls:
   - cost estimates are based on 15,000 miles per year at 3.70 per gallon
   - Combined fuel economy is a weighted average of City and Highway MPG values that
     is calculated by weighting the City value by 55% and the Highway value by 45%.
+  challenges: 
+new_cited_url: 
 refuted_by_hypotheses: []
 topics:
 - Cars

@@ -7,6 +7,7 @@ cited_urls:
   quotes:
   - In 2019, the U.S. population was 76% white alone, 13% black alone, 6% Asian alone,
     and 5% other.
+  challenges: 
 - url: https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
   quotes:
   - In New York City, shooting victims are most frequently Black (71.4%) or Hispanic
@@ -20,15 +21,19 @@ cited_urls:
     Hispanic suspects accounted for an additional (22.0%) of all suspects. White suspects
     (2.4%) and Asian/Pacific Islander suspects (1.1%) accounted for the remaining
     portion of known Shooting suspects.
+  challenges: 
 - url: https://ucr.fbi.gov/leoka/2019/tables/table-15.xls
   quotes:
   - In 2019, of the 48 police officers killed feloniously in the U.S., 40 were white
     (83%), seven were black(15%), and one (2%) was other
+  challenges: 
 - url: https://ucr.fbi.gov/leoka/2019/tables/table-42.xls
   quotes:
   - In 2019, of the 49 known offenders who killed police officers in the U.S., 28
     were white (57%), 15 were black (31%), and one was other (2%). Five were unknown.
     (10%)
+  challenges: 
+new_cited_url: 
 refuted_by_hypotheses: []
 topics:
 - Crime

@@ -10,10 +10,13 @@ cited_urls:
   - transportation accounted for the largest portion (28%) of total U.S. GHG emissions
     in 2018.
   - 59% of the U.S. Transportation Sector GHG Emissions came from light-duty vehicles
+  challenges: 
 - url: https://fueleconomy.gov/feg/label/learn-more-gasoline-label.shtml
   quotes:
   - 'The annual fuel cost is based on two assumptions: an annual mileage of 15,000
     miles and a projected gasoline price.'
+  challenges: 
+new_cited_url: 
 refuted_by_hypotheses: []
 topics:
 - Cars

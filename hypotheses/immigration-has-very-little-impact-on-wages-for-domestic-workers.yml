@@ -2,6 +2,14 @@
 title: Immigration has very little impact on wages for domestic workers.
 id: 2262
 cited_urls:
+- url: https://economics.mit.edu/files/13646
+  quotes:
+  - I exploit exogenous variation in European immigration to US cities between 1910
+    and 1930 induced by World War I and the Immigration Acts of the 1920s, and instrument
+    immigrants' location decision relying on pre-existing settlement patterns.  Immigration
+    increased natives' employment and occupational standing, and fostered industrial
+    production and capital utilization.
+  challenges: 
 - url: https://www.cgdev.org/article/what-marielitos-say-about-impact-immigration-us-news-world-report
   quotes:
   - The flaw in the argument that an influx of workers will adversely affect native
@@ -10,10 +18,12 @@ cited_urls:
     the case with humans, Clemens says, whose research shows that as more people arrive
     in a local economy, demand for goods and services such as housing and food also
     increases.
+  challenges: 
 - url: https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
   quotes:
   - when measured over a period of more than 10 years, the impact of immigration on
     the wages of natives overall is very small
+  challenges: 
 - url: https://journals.sagepub.com/doi/10.1177/001979399204500310
   quotes:
   - This paper uses census data to examine the impact on the French labor market of
@@ -23,6 +33,7 @@ cited_urls:
   - Estimates indicate that the repatriates increased the 1968 unemployment of non-repatriates
     by at most 0.3 percentage points. Average annual salaries were lower by at most
     1.3% in 1967 due to their arrival
+  challenges: 
 - url: http://jhr.uwpress.org/content/early/2018/01/25/jhr.54.2.0217.8561R1.abstract
   quotes:
   - This method improves on previous studies by choosing a control group of cities
@@ -33,13 +44,7 @@ cited_urls:
     control group on a short pre-1979 series, as done in Borjas (2017), one can find
     large wage differences between Miami and control because of large measurement
     error.
-- url: https://economics.mit.edu/files/13646
-  quotes:
-  - I exploit exogenous variation in European immigration to US cities between 1910
-    and 1930 induced by World War I and the Immigration Acts of the 1920s, and instrument
-    immigrants' location decision relying on pre-existing settlement patterns.  Immigration
-    increased natives' employment and occupational standing, and fostered industrial
-    production and capital utilization.
+  challenges: 
 - url: https://www.aeaweb.org/articles?id=10.1257/app.20150114
   quotes:
   - Using longitudinal data on the universe of workers in Denmark during the period
@@ -49,6 +54,8 @@ cited_urls:
     educated native workers (especially the young and low-tenured ones) to pursue
     less manual-intensive occupations. As a result immigration had positive effects
     on native unskilled wages, employment, and occupational mobility.
+  challenges: 
+new_cited_url: 
 refuted_by_hypotheses: []
 topics:
 - Economics
