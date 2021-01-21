@@ -25,7 +25,6 @@ cited_urls:
     is calculated by weighting the City value by 55% and the Highway value by 45%.
   challenges: 
 new_cited_url: 
-refuted_by_hypotheses: []
 topics:
 - Cars
 - Emissions
