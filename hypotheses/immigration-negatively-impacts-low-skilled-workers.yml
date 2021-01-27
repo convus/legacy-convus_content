@@ -14,7 +14,18 @@ cited_urls:
     wage structure. The wage of high school dropouts in Miami dropped dramatically,
     by 10 to 30%
   challenges: 
-new_cited_url: 
+new_cited_url:
+  url: http://jhr.uwpress.org/content/early/2018/01/25/jhr.54.2.0217.8561R1.abstract
+  quotes:
+  - This method improves on previous studies by choosing a control group of cities
+    that best matches Miami’s labor market trends pre-Boatlift and providing more
+    reliable inference. Using a sample of non-Cuban high-school dropouts we find no
+    significant difference in the wages of workers in Miami relative to its control
+    after 1980. We also show that by focusing on small sub-samples and matching the
+    control group on a short pre-1979 series, as done in Borjas (2017), one can find
+    large wage differences between Miami and control because of large measurement
+    error.
+  challenges: https://scholar.harvard.edu/files/gborjas/files/ilrr2017.pdf
 topics:
 - Economics
 - Immigration
