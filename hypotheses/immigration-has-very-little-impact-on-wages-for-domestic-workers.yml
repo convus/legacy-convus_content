@@ -2,6 +2,11 @@
 title: Immigration has very little impact on wages for domestic workers.
 id: 2262
 cited_urls:
+- url: https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
+  quotes:
+  - any negative impacts are most likely to be found for prior immigrants or native-born
+    high school dropouts.
+  challenges: https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
 - url: https://economics.mit.edu/files/13646
   quotes:
   - I exploit exogenous variation in European immigration to US cities between 1910
@@ -55,12 +60,7 @@ cited_urls:
     less manual-intensive occupations. As a result immigration had positive effects
     on native unskilled wages, employment, and occupational mobility.
   challenges: 
-new_cited_url:
-  url: https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
-  quotes:
-  - any negative impacts are most likely to be found for prior immigrants or native-born
-    high school dropouts.
-  challenges: https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
+new_cited_url: 
 topics:
 - Economics
 - Immigration
