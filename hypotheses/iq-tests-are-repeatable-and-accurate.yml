@@ -1,0 +1,15 @@
+---
+title: IQ tests are repeatable and accurate
+id: 1Q5
+cited_urls:
+- url: https://example.com/hypothesis_citation-1
+  quotes:
+  - Some quote here
+  challenges:
+new_cited_url:
+  url: https://testing.convus.org/examples/etc
+  quotes:
+  - 'Test quote #1'
+  - 'Test quote #2'
+  challenges: https://example.com/hypothesis_citation-1
+topics: []
