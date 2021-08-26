@@ -16,3 +16,13 @@ topics:
 - Bias
 - Cognition
 - Rating
+arguments:
+  '1':
+    id: 1
+    text: "> Prior ratings created significant bias in individual rating behavior,
+      and positive and negative social influences created asymmetric herding effects.\r\n\r\nThis
+      leads to winner take all effects:\r\n\r\n> For example, popular products may
+      be popular because of the irrational effect of past positive ratings"
+    quote_urls:
+    - https://science.sciencemag.org/content/341/6146/647.full
+    - https://science.sciencemag.org/content/341/6146/647.full
