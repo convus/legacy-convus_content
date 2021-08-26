@@ -7,6 +7,8 @@ The content of this repository - and other Convus content - is licensed under a 
 
 ---
 
-## CI
+## Testing
 
-The CI tests the validity of the files - see [spec/validate_content_spec.rb](spec/validate_content_spec.rb)
+There are tests are for the validity of the files.
+
+See [spec/validate_content_spec.rb](spec/validate_content_spec.rb)
