@@ -14,5 +14,5 @@ See [spec/validate_content_spec.rb](spec/validate_content_spec.rb)
 Run them with:
 
 ```bash
-bundle exec rspec validate_content_spec.rb --format progress --color
+bundle exec rspec validate_content_spec.rb --color
 ```
