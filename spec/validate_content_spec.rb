@@ -21,6 +21,8 @@ publication_files = passed_files ? (passed_files & ["publications.csv"]) : ["pub
 tag_files = passed_files ? (passed_files & ["tags.csv"]) : ["tags.csv"]
 
 require "yaml"
+require "csv"
+require "json"
 
 RSpec.describe "Hypothesess" do
   hypotheses_files.each do |file|
@@ -46,7 +48,10 @@ RSpec.describe "Publications" do
   publication_files.each do |file|
     context file do
       it "is a valid publication csv" do
-        # pp file
+        # TODO: better validation.
+        # Converting each row to json to do a little bit better validation, still seems lacking
+        csv = CSV.parse(File.read(file), headers: true)
+        csv.map(&:to_json)
       end
     end
   end
@@ -56,7 +61,8 @@ RSpec.describe "tags" do
   tag_files.each do |file|
     context file do
       it "is a valid tag csv" do
-        # pp file
+        csv = CSV.parse(File.read(file), headers: true)
+        csv.map(&:to_json)
       end
     end
   end
