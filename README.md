@@ -10,3 +10,9 @@ The content of this repository - and other Convus content - is licensed under a 
 There are tests are for the validity of the files.
 
 See [spec/validate_content_spec.rb](spec/validate_content_spec.rb)
+
+Run them with:
+
+```bash
+bundle exec rspec validate_content_spec.rb --format progress --color
+```
