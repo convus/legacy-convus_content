@@ -7,7 +7,7 @@ The content of this repository - and other Convus content - is licensed under a 
 
 ## Testing
 
-There are tests are for the validity of the files.
+There are tests are for the validity of the files (this is the only reason there is a Gemfile in this repository)
 
 See [spec/validate_content_spec.rb](spec/validate_content_spec.rb)
 

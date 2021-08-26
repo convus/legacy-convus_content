@@ -1,13 +1,7 @@
-name: Ruby
-
-on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
-
+name: Validate content
+on: [pull_request, push]
 jobs:
-  test:
+  ci:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -18,4 +12,4 @@ jobs:
       - name: Install dependencies
         run: bundle install
       - name: Run tests
-        run: bundle exec rspec validate_content_spec.rb --format RSpec::Github::Formatter --format progress --color
+        run: bundle exec rspec validate_content_spec.rb --format RSpec::Github::Formatter
