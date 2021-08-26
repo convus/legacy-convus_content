@@ -9,7 +9,7 @@ The content of this repository - and other Convus content - is licensed under a 
 
 There are tests are for the validity of the files (this is the only reason there is a Gemfile in this repository)
 
-See [spec/validate_content_spec.rb](spec/validate_content_spec.rb)
+See [validate_content_spec.rb](validate_content_spec.rb)
 
 Run them with:
 
