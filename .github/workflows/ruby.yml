@@ -2,7 +2,7 @@ name: Validate content
 on:
   push:
     branches: [main]
-  pull_request: true
+  pull_request: # Should run on every pull_request
 jobs:
   ci:
     runs-on: ubuntu-latest
