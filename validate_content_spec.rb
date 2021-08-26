@@ -1,6 +1,6 @@
 # TODO: only test the files that have been changed in the branch, when on a PR
 #  If the filenames are passed via an environmental variable, it should just work
-#  e.g. FILENAMES="1,2,3,4" rake spec
+#  e.g. FILENAMES="1,2,3,4" rspec validate_content_spec.rb
 
 passed_files = ENV["FILENAMES"]&.split(",")&.map(&:strip)
 
