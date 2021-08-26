@@ -1,5 +1,4 @@
 name: Validate content
-on: [pull_request, push]
 on:
   push:
     branches: [main]
