@@ -5,3 +5,4 @@ ruby "2.7.3"
 
 gem "rspec" # Testing
 gem "standard" # Ruby linter
+gem "rake"
