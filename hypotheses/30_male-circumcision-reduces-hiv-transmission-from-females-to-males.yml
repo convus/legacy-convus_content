@@ -10,4 +10,10 @@ topics:
 - Health
 - HIV
 - Sex
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: "> Since the 1980s, over 30 observational studies have suggested a protective
+      effect of male circumcision on HIV acquisition in heterosexual men"
+    quote_urls:
+    - https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003362.pub2/full
