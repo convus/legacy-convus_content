@@ -14,4 +14,14 @@ topics:
 - Environment
 - Lithium-ion batteries
 - Smartphones
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: "Every time you recharge a battery, the battery loses some of its capacity.\r\n\r\n>
+      The capacity of any type of battery will diminish after a certain amount of
+      recharging. With lithium-ion batteries, the capacity diminishes slightly with
+      each complete charge cycle.\r\n\r\nBy plugging in your battery powered device,
+      you prevent it from undergoing charge cycles - and therefor increase its battery
+      lifespan."
+    quote_urls:
+    - https://www.apple.com/batteries/why-lithium-ion
