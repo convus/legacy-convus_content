@@ -9,4 +9,11 @@ new_cited_url:
 topics:
 - Cognition
 - Creative thinking
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: "> To the extent that the results of the present experiment can be generalized,
+      it must be concluded that group participation when using brainstorming inhibits
+      creative thinking."
+    quote_urls:
+    - https://www.jstor.org/stable/2390603
