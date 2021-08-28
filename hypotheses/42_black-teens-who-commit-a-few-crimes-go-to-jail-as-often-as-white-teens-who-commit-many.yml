@@ -18,4 +18,14 @@ topics:
 - Jail
 - Policing
 - Race
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: "The US justice system has been trending toward more punitive treatment,\r\n\r\n>
+      \ Results confirmed that boys in 2000 were significantly more likely than those
+      in 1980 to report being charged with a crime.\r\n\r\nThis has been particularly
+      true of people of color:\r\n\r\n> Consideration of interaction effects revealed
+      these effects were magnified for Black and Hispanic males.\r\n"
+    quote_urls:
+    - https://journals.sagepub.com/doi/abs/10.1177/1541204013515280
+    - https://journals.sagepub.com/doi/abs/10.1177/1541204013515280
