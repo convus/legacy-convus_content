@@ -19,4 +19,11 @@ topics:
 - Environment
 - Light pollution
 - Wildlife
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: "> We found particularly strong responses with regards to hormone levels,
+      the onset of daily activity in diurnal species and life history traits, such
+      as the number of offspring, predation, cognition and seafinding (in turtles)."
+    quote_urls:
+    - https://www.nature.com/articles/s41559-020-01322-x
