@@ -15,4 +15,13 @@ topics:
 - Health
 - Mortality
 - Surgery
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: "> Patient characteristics, including severity of illness, were similar
+      between patients who underwent surgery on a surgeon’s birthday and those who
+      underwent surgery on other days. The overall unadjusted 30 day mortality on
+      the operating surgeon’s birthday was 7.0% (145/2,064) and that on other days
+      was 5.6% (54,824/978,812)"
+    quote_urls:
+    - https://www.bmj.com/content/371/bmj.m4381
