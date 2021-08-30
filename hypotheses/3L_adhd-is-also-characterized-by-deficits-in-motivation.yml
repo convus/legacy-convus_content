@@ -16,4 +16,11 @@ topics:
 - Cognition
 - Dopamine
 - Motivation
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: "In addition to hyperactivity, impulsivity and inattention, ADHD impacts
+      motivation:\r\n\r\n> These findings provide evidence that disruption of the
+      dopamine reward pathway is associated with motivation deficits in ADHD adults\r\n\r\n"
+    quote_urls:
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3010326/pdf/nihms229585.pdf
