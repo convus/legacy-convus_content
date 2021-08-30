@@ -12,4 +12,10 @@ topics:
 - Errors
 - Intelligence
 - IQ
-arguments: {}
+arguments:
+  '1':
+    id: 1
+    text: ">  IQ tests have a 95% confidence interval 15 points either side of the
+      obtained IQ"
+    quote_urls:
+    - http://eprints.hud.ac.uk/id/eprint/7044/2/WhitakerError.pdf
