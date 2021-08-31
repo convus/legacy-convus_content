@@ -1,8 +1,10 @@
 ---
 id: 4Q
+title: The Dunning-Kruger effect is not real. 
+
 ---
 
-# The Dunning-Kruger effect is not real.
+## Argument 1
 
 The Dunning–Kruger effect is a hypothetical cognitive bias stating that people with low ability at a task overestimate their own ability.
 
