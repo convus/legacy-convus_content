@@ -14,7 +14,7 @@ arguments:
   '1':
     id: 1
     text: "> If a child wants to be accelerated and seems academically prepared for
-      it, acceleration will usually help them.\r\n\r\nCounter that, \r\n\r\n> if you
+      it, acceleration will usually help them.\n\nWhen accelerating,\n\n>Consider options to accelerate to different levels in each subject based on demonstrated skill _in that subject_\n\nSimultaneously, \r\n\r\n> if you
       think your kid needs to be challenged more and your kid is perfectly happy in
       school, try really hard _not_ to be a nudge."
     quote_urls:
