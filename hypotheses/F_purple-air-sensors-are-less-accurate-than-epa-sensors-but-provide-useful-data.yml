@@ -9,7 +9,7 @@ new_cited_url:
 topics:
 - Air Quality
 - Environment
-arguments:
+explanations:
   '1':
     id: 1
     text: "The sensors maintained and used by the US government are very accurate,

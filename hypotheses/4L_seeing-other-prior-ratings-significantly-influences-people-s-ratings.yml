@@ -16,7 +16,7 @@ topics:
 - Bias
 - Cognition
 - Rating
-arguments:
+explanations:
   '1':
     id: 1
     text: "> Prior ratings created significant bias in individual rating behavior,

@@ -11,7 +11,7 @@ topics:
 - Environment
 - Toilets
 - Water conservation
-arguments:
+explanations:
   '1':
     id: 1
     text: "> Thames Water said poor design and materials cause water to flow continuously
