@@ -21,4 +21,16 @@ topics:
 - Publishing
 - Scholarly Journals
 - Science
-explanations: {}
+explanations:
+  '1':
+    id: 1
+    text: "Publications masquerading as edited and peer reviewed give legitimacy to
+      suspicious claims:\r\n\r\n> The difference—editing and peer review—is critical:
+      when it comes to public health, fake journals are a real danger. \r\n\r\nJeffrey
+      Beall (the publisher of a prominent list of predatory journals) states,\r\n\r\n>
+      All journals published by a predatory publisher are potentially predatory unless
+      stated otherwise\r\n\r\nKnowledge of predatory journals is important for evaluating
+      the credibility of published articles."
+    quote_urls:
+    - https://www.the-scientist.com/critic-at-large/opinion-using-pokmon-to-detect-scientific-misinformation-68098
+    - https://beallslist.net
