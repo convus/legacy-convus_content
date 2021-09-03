@@ -11,7 +11,7 @@ topics:
 - Environment
 - Lithium-ion batteries
 - Smartphones
-arguments:
+explanations:
   '1':
     id: 1
     text: "Charging at high temperatures results in damaging batteries\r\n\r\n> It’s

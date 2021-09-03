@@ -15,7 +15,7 @@ topics:
 - Health
 - Mortality
 - Surgery
-arguments:
+explanations:
   '1':
     id: 1
     text: "> Patient characteristics, including severity of illness, were similar

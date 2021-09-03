@@ -14,7 +14,7 @@ topics:
 - Environment
 - Lithium-ion batteries
 - Smartphones
-arguments:
+explanations:
   '1':
     id: 1
     text: "Every time you recharge a battery, the battery loses some of its capacity.\r\n\r\n>
