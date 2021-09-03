@@ -49,3 +49,21 @@ explanations:
     - https://en.wikipedia.org/wiki/Mariel_boatlift
     - https://en.wikipedia.org/wiki/Mariel_boatlift
     - https://scholar.harvard.edu/files/gborjas/files/ilrr2017.pdf
+  '2':
+    id: 2
+    text: "> This method improves on previous studies by choosing a control group
+      of cities that best matches Miami’s labor market trends pre-Boatlift and providing
+      more reliable inference. Using a sample of non-Cuban high-school dropouts we
+      find no significant difference in the wages of workers in Miami relative to
+      its control after 1980. We also show that by focusing on small sub-samples and
+      matching the control group on a short pre-1979 series, as done in Borjas (2017),
+      one can find large wage differences between Miami and control because of large
+      measurement error.\r\n\r\nThis will become a citation challenge (once that is
+      possible) to:\r\n\r\n> Given that at least 60% of the Marielitos were high school
+      dropouts, this article specifically examines the wage impact for this low-skill
+      group. This analysis over- turns the prior finding that the Mariel boatlift
+      did not affect Miami’s wage structure. The wage of high school dropouts in Miami
+      dropped dramatically, by 10 to 30%\r\n\r\n"
+    quote_urls:
+    - http://jhr.uwpress.org/content/early/2018/01/25/jhr.54.2.0217.8561R1.abstract
+    - https://scholar.harvard.edu/files/gborjas/files/ilrr2017.pdf
