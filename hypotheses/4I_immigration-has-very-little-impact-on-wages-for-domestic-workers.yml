@@ -64,28 +64,4 @@ new_cited_url:
 topics:
 - Economics
 - Immigration
-explanations:
-  '1':
-    id: 1
-    text: "In general, immigration doesn't have a big impact on native wages:\r\n\r\n>
-      when measured over a period of more than 10 years, the impact of immigration
-      on the wages of natives overall is very small\r\n\r\nUnlike supply and demand
-      of goods, where adding items lowers the value of each item, additional humans
-      _increase_ the demand for goods, increasing the number of jobs.\r\n\r\n> research
-      shows that as more people arrive in a local economy, demand for goods and services
-      such as housing and food also increases.\r\n\r\nImmigrants have a positive impact
-      on natives' employment and wages.\r\n\r\n> I exploit exogenous variation in
-      European immigration to US cities between 1910 and 1930 induced by World War
-      I and the Immigration Acts of the 1920s, and instrument immigrants' location
-      decision relying on pre-existing settlement patterns. Immigration increased
-      natives' employment and occupational standing, and fostered industrial production
-      and capital utilization.\r\n\r\nThe immigrants led to a positive effect on low
-      skill workers:\r\n\r\n> We find that an increase in the supply of refugee-country
-      immigrants pushed less educated native workers (especially the young and low-tenured
-      ones) to pursue less manual-intensive occupations. As a result immigration had
-      positive effects on native unskilled wages, employment, and occupational mobility."
-    quote_urls:
-    - https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration
-    - https://www.cgdev.org/article/what-marielitos-say-about-impact-immigration-us-news-world-report
-    - https://economics.mit.edu/files/13646
-    - https://www.aeaweb.org/articles?id=10.1257/app.20150114
+explanations: {}
