@@ -36,4 +36,32 @@ topics:
 - Publishing Scholarly
 - Science
 - Scientometrics
-explanations: {}
+explanations:
+  '1':
+    id: 1
+    text: "First - Impact Factor is not a panacea:\r\n\r\n>  Empirical evidence shows
+      that the misuse of the JIF – and journal ranking metrics in general – has a
+      number of negative consequences for the scholarly communication system. These
+      include confusion between outreach of a journal and the quality of individual
+      papers and insufficient coverage of social sciences and humanities as well as
+      research outputs from across Latin America, Africa, and South-East Asia.\r\n\r\nImpact
+      factor isn't a way of evaluating any given article:\r\n\r\n> the journal cannot
+      in any way be taken as representative of the article. Even if it could, the
+      journal impact factor would still be far from being a quality indicator: citation
+      impact is primarily a measure of scientific utility rather than of scientific
+      quality, and authors’ selection of references is subject to strong biases unrelated
+      to quality. For evaluation of scientific quality, there seems to be no alternative
+      to qualified experts reading the publications.\r\n\r\nBut -\r\n\r\n> Journal
+      impact factors depend on the research field: high impact factors are likely
+      in journals covering large areas of basic research with a rapidly expanding
+      but short lived literature that use many references per article\r\n\r\nAnd,
+      inevitably, Impact Factor is used as a proxy:\r\n\r\n> It is frequently used
+      as a proxy for the relative importance of a journal within its field; journals
+      with higher impact factors are often deemed to be more important than those
+      with lower ones.\r\n\r\nWhile it is imperfect, it is a tool that can be used
+      to evaluate quality.\r\n"
+    quote_urls:
+    - https://en.wikipedia.org/wiki/Impact_factor
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2126010/pdf/9056804.pdf
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2126010/pdf/9056804.pdf
+    - https://en.wikipedia.org/wiki/Impact_factor
