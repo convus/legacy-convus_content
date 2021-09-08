@@ -8,8 +8,8 @@ topics:
 citations:
   "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real":
     title: The Dunning-Kruger Effect Is Probably Not Real
-    publication_title: Office for Science and Society
     published_date: '2020-12-17'
+    publication_title: Office for Science and Society
   "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1215&context=numeracy":
     title: 'How Random Noise and a Graphical Convention Subverted Behavioral Scientists Explanations of Self-Assessment Data: Numeracy Underlies Better Alternatives'
     published_date: '2017-01-03'
