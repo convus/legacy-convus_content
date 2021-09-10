@@ -3,6 +3,7 @@ GEM
   specs:
     ast (2.4.2)
     diff-lcs (1.4.4)
+    fast_blank (1.0.1)
     parallel (1.20.1)
     parser (3.0.1.0)
       ast (~> 2.4.1)
@@ -49,6 +50,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fast_blank
   rake
   rspec
   rspec-github
