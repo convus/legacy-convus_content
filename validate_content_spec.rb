@@ -1,6 +1,6 @@
 # TODO: only test the files that have been changed in the branch, when on a PR
 #  If the filenames are passed via an environmental variable, it should just work
-#  e.g. FILENAMES="1,2,3,4" rspec validate_content_spec.rb
+#  e.g. FILENAMES="1,2,3,4" bundle exec rspec validate_content_spec.rb
 
 passed_files = ENV["FILENAMES"]&.split(",")&.map(&:strip)
 
@@ -42,7 +42,7 @@ class HypothesisMarkdownParser
   end
 
   def front_matter
-    # NOTE: only difference between this and the webapp repo - no #with_indifferent_access
+    # NOTE: difference between this and the webapp - no #with_indifferent_access
     @front_matter ||= YAML.safe_load(split_content.first)
   end
 
@@ -52,11 +52,11 @@ class HypothesisMarkdownParser
     @explanations = split_content.last.split(/^\s*#+ explanation /i).reject(&:blank?)
       .each_with_index.map do |exp, index|
         num = exp[/\A\s*\d+/]
-        num = if num.present?
+        num = if num.blank?
+          index + 1
+        else
           exp.gsub!(/\A\s*\d+/, "")
           num.to_i
-        else
-          index + 1
         end
         num = argument_numbers.max + 1 if argument_numbers.include?(num)
         argument_numbers << num
