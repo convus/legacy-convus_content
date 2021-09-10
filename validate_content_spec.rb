@@ -4,8 +4,6 @@
 
 passed_files = ENV["FILENAMES"]&.split(",")&.map(&:strip)
 
-pp "passed_files: #{passed_files}"
-
 hypotheses_files ||= if passed_files
   passed_files.select { |f| f.match?(/hypotheses\/.*\.md/i) }
 else
