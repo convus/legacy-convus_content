@@ -4,6 +4,8 @@
 
 passed_files = ENV["FILENAMES"]&.split(",")&.map(&:strip)
 
+pp "passed_files: #{passed_files}"
+
 hypotheses_files ||= if passed_files
   passed_files.select { |f| f.match?(/hypotheses\/.*\.md/i) }
 else
@@ -42,7 +44,7 @@ class HypothesisMarkdownParser
   end
 
   def front_matter
-    # NOTE: only difference between this and the webapp repo - no #with_indifferent_access
+    # NOTE: difference between this and the webapp repo - no #with_indifferent_access
     @front_matter ||= YAML.safe_load(split_content.first)
   end
 
@@ -52,11 +54,11 @@ class HypothesisMarkdownParser
     @explanations = split_content.last.split(/^\s*#+ explanation /i).reject(&:blank?)
       .each_with_index.map do |exp, index|
         num = exp[/\A\s*\d+/]
-        num = if num.present?
+        num = if num.blank?
+          index + 1
+        else
           exp.gsub!(/\A\s*\d+/, "")
           num.to_i
-        else
-          index + 1
         end
         num = argument_numbers.max + 1 if argument_numbers.include?(num)
         argument_numbers << num
