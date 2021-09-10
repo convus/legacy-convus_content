@@ -25,7 +25,7 @@ require "yaml"
 require "csv"
 require "json"
 
-# NOTE: this duplicates the same class in the webapp repo. They should be kept in sync
+# NOTE: this duplicates the class in the webapp. They should be kept in sync
 class HypothesisMarkdownParser
   def initialize(file_content:)
     @file_content = file_content
@@ -43,7 +43,7 @@ class HypothesisMarkdownParser
 
   def front_matter
     # NOTE: only difference between this and the webapp repo - no #with_indifferent_access
-    @front_matter ||= YAML.load(split_content.first)
+    @front_matter ||= YAML.safe_load(split_content.first)
   end
 
   def explanations
@@ -64,7 +64,6 @@ class HypothesisMarkdownParser
       end.to_h
   end
 end
-
 
 RSpec.describe "Hypothesess" do
   hypotheses_files.each do |file|
