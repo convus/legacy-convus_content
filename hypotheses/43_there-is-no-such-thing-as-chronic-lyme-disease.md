@@ -1,30 +1,26 @@
 ---
-title: There is no such thing as "chronic Lyme disease."
 id: '43'
-cited_urls:
-- url: https://lymescience.org/scientific-consensus
-  quotes:
-  - To date, there is no convincing biologic evidence for the existence of symptomatic
-    chronic B. burgdorferi infection among patients after receipt of recommended treatment
-    regimens for Lyme disease.
-  challenges: 
-- url: https://www.aappublications.org/news/2017/11/13/PPLyme111417
-  quotes:
-  - "“Chronic Lyme disease” is not a medical diagnosis."
-  challenges: 
-new_cited_url: 
+hypothesis: There is no such thing as "chronic Lyme disease."
 topics:
 - Chronic disease
 - Health
 - Lyme disease
-explanations:
-  '1':
-    id: 1
-    text: "> To date, there is no convincing biologic evidence for the existence of
-      symptomatic chronic B. burgdorferi infection among patients after receipt of
-      recommended treatment regimens for Lyme disease.\r\n\r\nAnd, while patients
-      may have symptoms lasting months,\r\n\r\n>  “Chronic Lyme disease” is not a
-      medical diagnosis."
-    quote_urls:
-    - https://lymescience.org/scientific-consensus
-    - https://www.aappublications.org/news/2017/11/13/PPLyme111417
+citations:
+  https://lymescience.org/scientific-consensus:
+    title: Scientific Consensus
+    published_date: 
+    publication_title: Lyme Science
+  https://www.aappublications.org/news/2017/11/13/PPLyme111417:
+    title: Know myths, facts about Lyme disease
+    published_date: '2017-11-13'
+    publication_title: AAP News
+---
+## Explanation 1
+
+> To date, there is no convincing biologic evidence for the existence of symptomatic chronic B. burgdorferi infection among patients after receipt of recommended treatment regimens for Lyme disease.
+> ref:https://lymescience.org/scientific-consensus
+
+And, while patients may have symptoms lasting months,
+
+> “Chronic Lyme disease” is not a medical diagnosis.
+> ref:https://www.aappublications.org/news/2017/11/13/PPLyme111417

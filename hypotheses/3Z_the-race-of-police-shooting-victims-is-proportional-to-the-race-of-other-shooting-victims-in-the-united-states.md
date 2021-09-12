@@ -1,39 +1,7 @@
 ---
-title: The race of police shooting victims is proportional to the race of other shooting
-  victims in the United States
 id: 3Z
-cited_urls:
-- url: https://www.census.gov/quickfacts/fact/table/US/PST045219
-  quotes:
-  - In 2019, the U.S. population was 76% white alone, 13% black alone, 6% Asian alone,
-    and 5% other.
-  challenges: 
-- url: https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
-  quotes:
-  - In New York City, shooting victims are most frequently Black (71.4%) or Hispanic
-    (24.2%). White victims account for an additional (2.5%) of all Shooting victims
-    while Asian/Pacific Islanders victims account for (1.9%) of all Shooting Victims.
-  - The Shooting arrest population is similarly distributed to the shooting suspects.
-    Black arrestees (71.6%) and Hispanic arrestees (24.1%) account for the majority
-    of Shooting arrest population. White arrestees (2.7%) and Asian/Pacific Islander
-    arrestees (1.5%) account for the remaining portion of the Shooting arrest population.
-  - The race/ethnicity of known Shooting suspects is most frequently Black (74.4%).
-    Hispanic suspects accounted for an additional (22.0%) of all suspects. White suspects
-    (2.4%) and Asian/Pacific Islander suspects (1.1%) accounted for the remaining
-    portion of known Shooting suspects.
-  challenges: 
-- url: https://ucr.fbi.gov/leoka/2019/tables/table-15.xls
-  quotes:
-  - In 2019, of the 48 police officers killed feloniously in the U.S., 40 were white
-    (83%), seven were black(15%), and one (2%) was other
-  challenges: 
-- url: https://ucr.fbi.gov/leoka/2019/tables/table-42.xls
-  quotes:
-  - In 2019, of the 49 known offenders who killed police officers in the U.S., 28
-    were white (57%), 15 were black (31%), and one was other (2%). Five were unknown.
-    (10%)
-  challenges: 
-new_cited_url: 
+hypothesis: The race of police shooting victims is proportional to the race of other
+  shooting victims in the United States
 topics:
 - Crime
 - New York City
@@ -41,25 +9,38 @@ topics:
 - Race
 - Shootings
 - United States
-explanations:
-  '1':
-    id: 1
-    text: "Despite the population makeup of the US:\r\n\r\n>  In 2019, the U.S. population
-      was 76% white alone, 13% black alone, 6% Asian alone, and 5% other.\r\n\r\nShooting
-      victims are majority non-white:\r\n\r\n>  In New York City, shooting victims
-      are most frequently Black (71.4%) or Hispanic (24.2%). White victims account
-      for an additional (2.5%) of all Shooting victims while Asian/Pacific Islanders
-      victims account for (1.9%) of all Shooting Victims.\r\n\r\nThe shooting arrest
-      population is distributed similarly to the victim distribution,\r\n\r\n> The
-      Shooting arrest population is similarly distributed to the shooting suspects.
-      Black arrestees (71.6%) and Hispanic arrestees (24.1%) account for the majority
-      of Shooting arrest population. White arrestees (2.7%) and Asian/Pacific Islander
-      arrestees (1.5%) account for the remaining portion of the Shooting arrest population.\r\n\r\nHowever,
-      the majority of people who killed police officers were white:\r\n\r\n> In 2019,
-      of the 49 known offenders who killed police officers in the U.S., 28 were white
-      (57%), 15 were black (31%), and one was other (2%). Five were unknown. (10%)\r\n"
-    quote_urls:
-    - https://www.census.gov/quickfacts/fact/table/US/PST045219
-    - https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
-    - https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
-    - https://ucr.fbi.gov/leoka/2019/tables/table-42.xls
+citations:
+  https://ucr.fbi.gov/leoka/2019/tables/table-42.xls:
+    title: 'Source: Law Enforcement Officers Killed & Assaulted, 2019, table 42'
+    published_date: 
+    publication_title: FBI Uniform Crime reporting
+  https://www.census.gov/quickfacts/fact/table/US/PST045219:
+    title: QuickFacts
+    published_date: 
+    publication_title: U.S. Census Bureau
+  https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf:
+    title: Crime and Enforcement Activity in New York City, 2019
+    published_date: 
+    publication_title: NYPD
+---
+## Explanation 1
+
+Despite the population makeup of the US:
+
+> In 2019, the U.S. population was 76% white alone, 13% black alone, 6% Asian alone, and 5% other.
+> ref:https://www.census.gov/quickfacts/fact/table/US/PST045219
+
+Shooting victims are majority non-white:
+
+> In New York City, shooting victims are most frequently Black (71.4%) or Hispanic (24.2%). White victims account for an additional (2.5%) of all Shooting victims while Asian/Pacific Islanders victims account for (1.9%) of all Shooting Victims.
+> ref:https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
+
+The shooting arrest population is distributed similarly to the victim distribution,
+
+> The Shooting arrest population is similarly distributed to the shooting suspects. Black arrestees (71.6%) and Hispanic arrestees (24.1%) account for the majority of Shooting arrest population. White arrestees (2.7%) and Asian/Pacific Islander arrestees (1.5%) account for the remaining portion of the Shooting arrest population.
+> ref:https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year-end-2019-enforcement-report.pdf
+
+However, the majority of people who killed police officers were white:
+
+> In 2019, of the 49 known offenders who killed police officers in the U.S., 28 were white (57%), 15 were black (31%), and one was other (2%). Five were unknown. (10%)
+> ref:https://ucr.fbi.gov/leoka/2019/tables/table-42.xls
