@@ -1,19 +1,17 @@
 ---
-title: Groups are less effective than individuals at generating creative solutions
 id: H
-cited_urls:
-- url: https://www.jstor.org/stable/2390603
-  quotes: []
-  challenges: 
-new_cited_url: 
+hypothesis: Groups are less effective than individuals at generating creative solutions
 topics:
 - Cognition
 - Creative thinking
-explanations:
-  '1':
-    id: 1
-    text: "> To the extent that the results of the present experiment can be generalized,
-      it must be concluded that group participation when using brainstorming inhibits
-      creative thinking."
-    quote_urls:
-    - https://www.jstor.org/stable/2390603
+citations:
+  https://www.jstor.org/stable/2390603:
+    title: Does Group Participation When Using Brainstorming Facilitate or Inhibit
+      Creative Thinking?
+    published_date: 
+    publication_title: JSTOR
+---
+## Explanation 1
+
+> To the extent that the results of the present experiment can be generalized, it must be concluded that group participation when using brainstorming inhibits creative thinking.
+> ref:https://www.jstor.org/stable/2390603
