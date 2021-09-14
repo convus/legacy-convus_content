@@ -4,6 +4,8 @@ hypothesis: The world is flat
 topics:
 - Earth
 - Space
+supporting: []
+conflicting: []
 citations:
   https://wiki.tfes.org/Experimental_Evidence:
     title: Experimental Evidence

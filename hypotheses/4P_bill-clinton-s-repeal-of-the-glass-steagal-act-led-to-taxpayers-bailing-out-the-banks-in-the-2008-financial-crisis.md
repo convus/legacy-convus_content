@@ -6,6 +6,8 @@ topics:
 - Banks
 - Economics
 - United States
+supporting: []
+conflicting: []
 citations:
   https://core.ac.uk/download/pdf/268111481.pdf:
     title: The Repeal Of The Glass- Steagall Act And The Current Financial Crisis

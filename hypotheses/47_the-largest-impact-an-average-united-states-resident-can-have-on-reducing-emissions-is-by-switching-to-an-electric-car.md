@@ -8,6 +8,8 @@ topics:
 - Emissions
 - Environment
 - Global warming
+supporting: []
+conflicting: []
 citations:
   https://astralcodexten.substack.com/p/carbon-costs-quantified:
     title: Carbon Costs Quantified

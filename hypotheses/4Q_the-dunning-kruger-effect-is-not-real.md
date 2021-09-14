@@ -5,6 +5,8 @@ topics:
 - Bias
 - Cognition
 - Competence
+supporting: []
+conflicting: []
 citations:
   https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1215&context=numeracy:
     title: 'How Random Noise and a Graphical Convention Subverted Behavioral Scientists''

@@ -5,6 +5,8 @@ hypothesis: Lateral thinking is a pseudoscience, it’s creator ignored other la
 topics:
 - Cognition
 - Pseudoscience
+supporting: []
+conflicting: []
 citations:
   https://aeon.co/essays/lateral-thinking-is-classic-pseudoscience-derivative-and-untested:
     title: Beware of lateral thinking

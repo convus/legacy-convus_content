@@ -7,6 +7,8 @@ topics:
 - Cognition
 - Dopamine
 - Motivation
+supporting: []
+conflicting: []
 citations:
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3010326/pdf/nihms229585.pdf:
     title: Motivation Deficit in ADHD is Associated with Dysfunction of the Dopamine

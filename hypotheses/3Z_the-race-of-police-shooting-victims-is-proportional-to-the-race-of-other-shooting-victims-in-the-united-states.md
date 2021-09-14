@@ -9,6 +9,8 @@ topics:
 - Race
 - Shootings
 - United States
+supporting: []
+conflicting: []
 citations:
   https://ucr.fbi.gov/leoka/2019/tables/table-42.xls:
     title: 'Source: Law Enforcement Officers Killed & Assaulted, 2019, table 42'

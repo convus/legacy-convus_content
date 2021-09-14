@@ -4,6 +4,8 @@ hypothesis: COVID-19 incomplete recovery, with fluctuating symptoms, are common
 topics:
 - COVID-19
 - Long term COVID-19 effects
+supporting: []
+conflicting: []
 citations:
   https://www.nature.com/articles/d41586-020-02335-z:
     title: A Negative COVID-19 testf does not mean recovery

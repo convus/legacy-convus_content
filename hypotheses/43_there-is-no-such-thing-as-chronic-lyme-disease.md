@@ -5,6 +5,8 @@ topics:
 - Chronic disease
 - Health
 - Lyme disease
+supporting: []
+conflicting: []
 citations:
   https://lymescience.org/scientific-consensus:
     title: Scientific Consensus

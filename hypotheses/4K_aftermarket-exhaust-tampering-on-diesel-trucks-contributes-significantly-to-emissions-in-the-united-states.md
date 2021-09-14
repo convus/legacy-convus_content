@@ -7,6 +7,8 @@ topics:
 - Environment
 - Global warming
 - Trucks
+supporting: []
+conflicting: []
 citations:
   https://int.nyt.com/data/documenttools/epa-on-tampered-diesel-pickups-11-20/6d70536b06182ad2/full.pdf:
     title: 'Re: Tampered Diesel Pickup Trucks: A Review of Aggregated Evidence from

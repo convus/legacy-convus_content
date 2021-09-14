@@ -5,6 +5,8 @@ hypothesis: Qualified immunity does not protect police operating in good faith a
 topics:
 - Litigation
 - Policing
+supporting: []
+conflicting: []
 citations:
   https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=4796&context=ndlr:
     title: The Case Against Qualified Immunity

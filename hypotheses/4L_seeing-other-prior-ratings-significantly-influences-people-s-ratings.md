@@ -5,6 +5,8 @@ topics:
 - Bias
 - Cognition
 - Rating
+supporting: []
+conflicting: []
 citations:
   https://science.sciencemag.org/content/341/6146/647.full:
     title: 'Social Influence Bias: A Randomized Experiment'

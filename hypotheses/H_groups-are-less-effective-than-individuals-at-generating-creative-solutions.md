@@ -4,6 +4,8 @@ hypothesis: Groups are less effective than individuals at generating creative so
 topics:
 - Cognition
 - Creative thinking
+supporting: []
+conflicting: []
 citations:
   https://www.jstor.org/stable/2390603:
     title: Does Group Participation When Using Brainstorming Facilitate or Inhibit

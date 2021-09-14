@@ -5,6 +5,8 @@ hypothesis: Residents of mountainous areas in the United States are less agreeab
 topics:
 - Personality
 - United States
+supporting: []
+conflicting: []
 citations:
   https://www.nature.com/articles/s41562-020-0930-x:
     title: Physical topography is associated with human personality

@@ -8,6 +8,8 @@ topics:
 - Cats
 - Environment
 - Global warming
+supporting: []
+conflicting: []
 citations:
   https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/j.1523-1739.1990.tb00096.x:
     title: doi/abs/10.1111/j.1523-1739.1990.tb00096.x

@@ -6,6 +6,8 @@ topics:
 - Environment
 - Toilets
 - Water conservation
+supporting: []
+conflicting: []
 citations:
   https://www.theguardian.com/environment/2020/sep/29/dual-flush-toilets-wasting-more-water-than-they-save:
     title: Dual-flush toilets 'wasting more water than they save'

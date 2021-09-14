@@ -5,6 +5,8 @@ topics:
 - Environment
 - Light pollution
 - Wildlife
+supporting: []
+conflicting: []
 citations:
   https://www.nature.com/articles/s41559-020-01322-x:
     title: A meta-analysis of biological impacts of artificial light at night

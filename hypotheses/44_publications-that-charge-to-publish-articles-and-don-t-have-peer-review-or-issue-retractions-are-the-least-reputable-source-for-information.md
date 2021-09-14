@@ -7,6 +7,8 @@ topics:
 - Publishing
 - Scholarly Journals
 - Science
+supporting: []
+conflicting: []
 citations:
   https://beallslist.net:
     title: Beall's List of Potential Predatory Journals and Publications

@@ -5,6 +5,8 @@ topics:
 - COVID-19
 - Health
 - Unions
+supporting: []
+conflicting: []
 citations:
   https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2020.01011:
     title: Mortality Rates From COVID-19 Are Lower In Unionized Nursing Homes

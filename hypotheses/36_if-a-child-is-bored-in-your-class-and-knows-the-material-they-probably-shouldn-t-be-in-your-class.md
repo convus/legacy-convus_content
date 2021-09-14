@@ -5,6 +5,8 @@ hypothesis: If a child is bored in your class and knows the material, they proba
 topics:
 - Gifted students
 - Teaching
+supporting: []
+conflicting: []
 citations:
   https://slatestarcodex.com/2018/09/04/acc-entry-does-the-education-system-adequately-serve-advanced-students:
     title: "[ACC Entry] Does The Education System Adequately Serve Advanced Students?"

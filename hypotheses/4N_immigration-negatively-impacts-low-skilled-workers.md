@@ -4,6 +4,8 @@ hypothesis: Immigration negatively impacts low skilled workers
 topics:
 - Economics
 - Immigration
+supporting: []
+conflicting: []
 citations:
   http://jhr.uwpress.org/content/early/2018/01/25/jhr.54.2.0217.8561R1.abstract:
     title: 'The Labor Market Effects of a Refugee Wave: Synthetic Control Method Meets

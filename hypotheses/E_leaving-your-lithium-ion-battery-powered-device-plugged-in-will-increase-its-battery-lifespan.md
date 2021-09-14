@@ -6,6 +6,8 @@ topics:
 - Environment
 - Lithium-ion batteries
 - Smartphones
+supporting: []
+conflicting: []
 citations:
   https://www.apple.com/batteries/why-lithium-ion:
     title: Why Lithium-ion?

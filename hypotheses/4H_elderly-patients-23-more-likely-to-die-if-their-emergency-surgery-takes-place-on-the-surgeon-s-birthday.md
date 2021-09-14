@@ -6,6 +6,8 @@ topics:
 - Health
 - Mortality
 - Surgery
+supporting: []
+conflicting: []
 citations:
   https://www.bmj.com/content/371/bmj.m4381:
     title: 'Patient mortality after surgery on the surgeon’s birthday: observational

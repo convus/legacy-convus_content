@@ -6,6 +6,8 @@ topics:
 - Fasting
 - Health
 - Life extension
+supporting: []
+conflicting: []
 citations:
   https://slatestarcodex.com/2019/12/12/acc-does-calorie-restriction-slow-aging:
     title: "[ACC] Does Calorie Restriction Slow Aging?"
