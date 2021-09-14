@@ -5,6 +5,8 @@ topics:
 - Bias
 - Cognition
 - Intelligence
+supporting: []
+conflicting: []
 citations:
   https://content.apa.org/record/2012-14753-001:
     title: Cognitive sophistication does not attenuate the bias blind spot

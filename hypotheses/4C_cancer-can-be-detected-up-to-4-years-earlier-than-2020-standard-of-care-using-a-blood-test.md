@@ -5,6 +5,8 @@ hypothesis: Cancer can be detected up to 4 years earlier than 2020 standard of c
 topics:
 - Cancer
 - Health
+supporting: []
+conflicting: []
 citations:
   https://www.nature.com/articles/s41467-020-17316-z:
     title: Non-invasive early detection of cancer four years before conventional diagnosis

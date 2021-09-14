@@ -7,6 +7,8 @@ topics:
 - Education
 - Harvard
 - Race
+supporting: []
+conflicting: []
 citations:
   https://www.nber.org/system/files/working_papers/w26316/w26316.pdf:
     title: Legacy and Athlete Preferences at Harvard

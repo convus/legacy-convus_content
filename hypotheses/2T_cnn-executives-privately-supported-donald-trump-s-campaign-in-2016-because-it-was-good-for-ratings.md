@@ -6,6 +6,8 @@ topics:
 - Current events
 - Donald Trump
 - Media
+supporting: []
+conflicting: []
 citations:
   https://taibbi.substack.com/p/tape-shows-ethically-cnn-chief-a:
     title: 'Tape shows: ethically, CNN chief a little shaky'

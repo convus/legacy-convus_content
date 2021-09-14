@@ -4,6 +4,8 @@ hypothesis: The earth is roughly spherical
 topics:
 - Earth
 - Space
+supporting: []
+conflicting: []
 citations:
   https://en.wikipedia.org/wiki/Spherical_Earth:
     title: Spherical Earth

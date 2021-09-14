@@ -8,6 +8,8 @@ topics:
 - Environment
 - Global warming
 - Hybrids
+supporting: []
+conflicting: []
 citations:
   https://cars.usnews.com/cars-trucks/toyota/rav4-hybrid/2020:
     title: 2020 Toyota RAV4 Hybrid

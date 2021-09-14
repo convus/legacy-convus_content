@@ -6,6 +6,8 @@ topics:
 - Athletics
 - Health
 - Water
+supporting: []
+conflicting: []
 citations:
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762624/pdf/ijcem0006-0683.pdf:
     title: The effect of water temperature and voluntary drinking on the post rehydration

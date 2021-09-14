@@ -5,6 +5,8 @@ topics:
 - Immigration
 - Race
 - United States
+supporting: []
+conflicting: []
 citations:
   https://www.migrationpolicy.org/programs/data-hub/charts/us-immigrant-population-state-and-county:
     title: U.S. Immigrant Population by State and County, 2014-2018

@@ -5,6 +5,8 @@ topics:
 - Health
 - HIV
 - Sex
+supporting: []
+conflicting: []
 citations:
   https://evidencebasedbirth.com/evidence-and-ethics-on-circumcision:
     title: 'Evidence and Ethics on: Circumcision'

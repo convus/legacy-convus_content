@@ -4,6 +4,8 @@ hypothesis: "#Russiagate did not expose any collusion between Trump and Russia"
 topics:
 - Russiagate
 - Trump
+supporting: []
+conflicting: []
 citations:
   https://www.rollingstone.com/politics/politics-features/russiagate-fiasco-taibbi-news-media-826246:
     title: The Press Will Learn Nothing From the Russiagate Fiasco

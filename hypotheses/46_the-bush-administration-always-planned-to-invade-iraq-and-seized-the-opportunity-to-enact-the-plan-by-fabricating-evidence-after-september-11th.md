@@ -5,6 +5,8 @@ hypothesis: The Bush administration always planned to invade Iraq and seized the
 topics:
 - Iraq War
 - United States
+supporting: []
+conflicting: []
 citations:
   https://en.wikipedia.org/wiki/Rationale_for_the_Iraq_War:
     title: Rationale for the Iraq War

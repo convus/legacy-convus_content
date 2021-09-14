@@ -9,6 +9,8 @@ topics:
 - Shootings
 - United States
 - Violent Crime
+supporting: []
+conflicting: []
 citations:
   https://www.bjs.gov/index.cfm?ty=pbdetail&iid=7046:
     title: Bureau of Justice Statistics,  Crime Victimization, 2019

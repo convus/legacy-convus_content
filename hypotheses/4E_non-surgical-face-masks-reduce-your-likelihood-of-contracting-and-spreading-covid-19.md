@@ -5,6 +5,8 @@ hypothesis: non-surgical face masks reduce your likelihood of contracting and sp
 topics:
 - COVID-19
 - Masks
+supporting: []
+conflicting: []
 citations:
   https://www.acpjournals.org/doi/10.7326/M20-6817:
     title: Effectiveness of Adding a Mask Recommendation to Other Public Health Measures

@@ -5,6 +5,8 @@ hypothesis: Purple air sensors are less accurate than EPA sensors but provide us
 topics:
 - Air Quality
 - Environment
+supporting: []
+conflicting: []
 citations:
   https://www.kqed.org/science/1969271/making-sense-of-purple-air-vs-airnow-and-a-new-map-to-rule-them-all:
     title: Making Sense of Purple Air vs. AirNow, and a New Map to Rule Them All

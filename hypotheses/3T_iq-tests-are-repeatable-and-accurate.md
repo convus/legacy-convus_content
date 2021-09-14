@@ -5,6 +5,8 @@ topics:
 - Errors
 - Intelligence
 - IQ
+supporting: []
+conflicting: []
 citations:
   http://eprints.hud.ac.uk/id/eprint/7044/2/WhitakerError.pdf:
     title: Error in the estimation of intellectual ability in the low range using

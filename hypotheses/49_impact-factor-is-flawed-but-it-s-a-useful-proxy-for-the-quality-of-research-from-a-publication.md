@@ -8,6 +8,8 @@ topics:
 - Publishing Scholarly
 - Science
 - Scientometrics
+supporting: []
+conflicting: []
 citations:
   https://en.wikipedia.org/wiki/Impact_factor:
     title: Impact factor

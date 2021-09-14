@@ -5,6 +5,8 @@ topics:
 - Gender
 - Sexuality
 - Transgender
+supporting: []
+conflicting: []
 citations:
   https://slatestarcodex.com/2020/02/10/autogenderphilia-is-common-and-not-especially-related-to-transgender:
     title: Autogenderphilia Is Common And Not Especially Related To Transgender

@@ -4,6 +4,8 @@ hypothesis: Democracy and freedom has declined in the G-20 countries since 2006
 topics:
 - Democracy
 - Freedom
+supporting: []
+conflicting: []
 citations:
   https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1807517:
     title: 'Democratic regression in comparative perspective: scope, methods, and

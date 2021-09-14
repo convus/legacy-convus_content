@@ -5,6 +5,8 @@ topics:
 - Ecology
 - Mountain biking
 - Wildlife
+supporting: []
+conflicting: []
 citations:
   https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.271:
     title: Relative effects of recreational activities on a temperate terrestrial

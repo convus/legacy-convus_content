@@ -9,6 +9,8 @@ topics:
 - Environmentalism
 - Health
 - Vegetarianism
+supporting: []
+conflicting: []
 citations:
   https://slatestarcodex.com/2019/12/11/acc-is-eating-meat-a-net-harm:
     title: "[ACC] Is Eating Meat A Net Harm?"

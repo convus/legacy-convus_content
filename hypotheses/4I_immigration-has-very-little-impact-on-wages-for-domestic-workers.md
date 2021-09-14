@@ -4,6 +4,8 @@ hypothesis: Immigration has very little impact on wages for domestic workers
 topics:
 - Economics
 - Immigration
+supporting: []
+conflicting: []
 citations:
   https://economics.mit.edu/files/13646:
     title: 'Gifts of the Immigrants, Woes of the Natives: Lessons from the Age of

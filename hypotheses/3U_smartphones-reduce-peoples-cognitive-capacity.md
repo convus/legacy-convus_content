@@ -5,6 +5,8 @@ topics:
 - Cognitive capacity
 - Health
 - Smartphones
+supporting: []
+conflicting: []
 citations:
   https://www.journals.uchicago.edu/doi/full/10.1086/691462:
     title: 'Brain Drain: The Mere Presence of One’s Own Smartphone Reduces Available
