@@ -1,7 +1,7 @@
 ---
 id: '41'
 hypothesis: 43% of white students admitted to Harvard were athletes and legacies and
-  would not have been accepted otherwise (compared to 16% of non-white students)
+  would not have been accepted otherwise (compared to 16% of non-white students).
 topics:
 - College
 - Education

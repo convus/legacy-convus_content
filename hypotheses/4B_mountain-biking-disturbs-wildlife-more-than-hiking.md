@@ -1,6 +1,6 @@
 ---
 id: 4B
-hypothesis: Mountain biking disturbs wildlife more than hiking
+hypothesis: Mountain biking disturbs wildlife more than hiking.
 topics:
 - Ecology
 - Mountain biking

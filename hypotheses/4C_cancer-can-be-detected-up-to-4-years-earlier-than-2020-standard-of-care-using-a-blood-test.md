@@ -1,7 +1,7 @@
 ---
 id: 4C
 hypothesis: Cancer can be detected up to 4 years earlier than 2020 standard of care
-  using a blood test
+  using a blood test.
 topics:
 - Cancer
 - Health

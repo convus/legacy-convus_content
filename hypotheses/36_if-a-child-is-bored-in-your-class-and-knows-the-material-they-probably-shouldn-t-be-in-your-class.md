@@ -1,7 +1,7 @@
 ---
 id: '36'
 hypothesis: If a child is bored in your class and knows the material, they probably
-  shouldn’t be in your class
+  shouldn’t be in your class.
 topics:
 - Gifted students
 - Teaching
@@ -22,8 +22,10 @@ When accelerating,
 
 > Consider options to accelerate to different levels in each subject based on demonstrated skill _in that subject_
 > ref:
+> ref:
 
 Simultaneously,
 
 > if you think your kid needs to be challenged more and your kid is perfectly happy in school, try really hard _not_ to be a nudge.
+> ref:
 > ref:

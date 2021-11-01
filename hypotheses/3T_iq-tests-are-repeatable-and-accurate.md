@@ -1,6 +1,6 @@
 ---
 id: 3T
-hypothesis: IQ tests are repeatable and accurate
+hypothesis: IQ tests are repeatable and accurate.
 topics:
 - Errors
 - Intelligence

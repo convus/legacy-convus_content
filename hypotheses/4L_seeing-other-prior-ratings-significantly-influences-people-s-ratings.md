@@ -1,6 +1,6 @@
 ---
 id: 4L
-hypothesis: Seeing other (prior) ratings significantly influences people's ratings
+hypothesis: Seeing other (prior) ratings significantly influences people's ratings.
 topics:
 - Bias
 - Cognition

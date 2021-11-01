@@ -1,7 +1,7 @@
 ---
 id: E
 hypothesis: Leaving your lithium-ion battery powered device plugged in will increase
-  its battery lifespan
+  its battery lifespan.
 topics:
 - Environment
 - Lithium-ion batteries

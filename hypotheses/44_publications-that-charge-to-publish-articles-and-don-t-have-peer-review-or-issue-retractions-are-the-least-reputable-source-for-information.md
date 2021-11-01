@@ -1,7 +1,7 @@
 ---
 id: '44'
 hypothesis: Publications that charge to publish articles, and don't have peer review
-  or issue retractions, are the least reputable source for information
+  or issue retractions, are the least reputable source for information.
 topics:
 - Peer review
 - Publishing

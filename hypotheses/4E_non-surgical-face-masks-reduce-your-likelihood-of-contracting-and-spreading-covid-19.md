@@ -1,7 +1,7 @@
 ---
 id: 4E
 hypothesis: non-surgical face masks reduce your likelihood of contracting and spreading
-  COVID-19
+  COVID-19.
 topics:
 - COVID-19
 - Masks

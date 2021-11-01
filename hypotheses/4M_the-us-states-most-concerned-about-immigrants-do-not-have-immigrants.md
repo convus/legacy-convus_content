@@ -1,6 +1,6 @@
 ---
 id: 4M
-hypothesis: The US states most concerned about immigrants do not have immigrants
+hypothesis: The US states most concerned about immigrants do not have immigrants.
 topics:
 - Immigration
 - Race

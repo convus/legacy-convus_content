@@ -1,6 +1,6 @@
 ---
 id: '31'
-hypothesis: Democracy and freedom has declined in the G-20 countries since 2006
+hypothesis: Democracy and freedom has declined in the G-20 countries since 2006.
 topics:
 - Democracy
 - Freedom

@@ -1,7 +1,7 @@
 ---
 id: F
 hypothesis: Purple air sensors are less accurate than EPA sensors but provide useful
-  data
+  data.
 topics:
 - Air Quality
 - Environment

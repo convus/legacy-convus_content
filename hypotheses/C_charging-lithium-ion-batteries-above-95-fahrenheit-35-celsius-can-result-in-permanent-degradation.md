@@ -1,7 +1,7 @@
 ---
 id: C
 hypothesis: Charging Lithium Ion batteries above 95 Fahrenheit (35 celsius) can result
-  in permanent degradation
+  in permanent degradation.
 topics:
 - Environment
 - Lithium-ion batteries

@@ -1,6 +1,6 @@
 ---
 id: I
-hypothesis: The world is flat
+hypothesis: The world is flat.
 topics:
 - Earth
 - Space

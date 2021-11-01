@@ -1,6 +1,6 @@
 ---
 id: 4I
-hypothesis: Immigration has very little impact on wages for domestic workers
+hypothesis: Immigration has very little impact on wages for domestic workers.
 topics:
 - Economics
 - Immigration

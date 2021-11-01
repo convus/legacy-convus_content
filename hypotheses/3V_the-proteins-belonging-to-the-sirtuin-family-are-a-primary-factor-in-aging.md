@@ -1,6 +1,6 @@
 ---
 id: 3V
-hypothesis: The proteins belonging to the sirtuin family are a primary factor in aging
+hypothesis: The proteins belonging to the sirtuin family are a primary factor in aging.
 topics:
 - Aging
 - Health

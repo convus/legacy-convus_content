@@ -1,7 +1,7 @@
 ---
 id: 4P
 hypothesis: Bill Clinton’s repeal of the Glass Steagal act led to taxpayers bailing
-  out the banks in the 2008 financial crisis
+  out the banks in the 2008 financial crisis.
 topics:
 - Banks
 - Economics

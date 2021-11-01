@@ -1,6 +1,6 @@
 ---
 id: 3U
-hypothesis: Smartphones reduce peoples' cognitive capacity
+hypothesis: Smartphones reduce peoples' cognitive capacity.
 topics:
 - Cognitive capacity
 - Health
@@ -25,4 +25,3 @@ Fittingly, people who depend on their phones more are most heavily effected,
 
 > These cognitive costs are highest for those highest in smartphone dependence.
 > ref:https://www.journals.uchicago.edu/doi/full/10.1086/691462
-

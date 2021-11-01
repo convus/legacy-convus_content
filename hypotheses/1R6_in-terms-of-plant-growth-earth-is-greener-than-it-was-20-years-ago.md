@@ -23,4 +23,3 @@ With satellite data it's possible to see an increase in global greenness.
 
 > “It is ironic that the very same carbon emissions responsible for harmful changes to climate are also fertilizing plant growth,” said co-author Jarle Bjerke of the Norwegian Institute for Nature Research, “which in turn is somewhat moderating global warming.”
 > ref:https://earthobservatory.nasa.gov/images/146296/global-green-up-slows-warming
-

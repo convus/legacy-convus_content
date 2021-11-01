@@ -1,7 +1,7 @@
 ---
 id: '38'
 hypothesis: Residents of mountainous areas in the United States are less agreeable,
-  extraverted, neurotic and conscientious - but more open to experiences
+  extraverted, neurotic and conscientious - but more open to experiences.
 topics:
 - Personality
 - United States

@@ -1,7 +1,7 @@
 ---
 id: '46'
 hypothesis: The Bush administration always planned to invade Iraq and seized the opportunity
-  to enact the plan by fabricating evidence after September 11th
+  to enact the plan by fabricating evidence after September 11th.
 topics:
 - Iraq War
 - United States

@@ -1,7 +1,7 @@
 ---
 id: 3X
 hypothesis: From 2018-2019 the United States became safer - violent crime decreased
-  in all areas across major demographics
+  in all areas across major demographics.
 topics:
 - Crime
 - Policing

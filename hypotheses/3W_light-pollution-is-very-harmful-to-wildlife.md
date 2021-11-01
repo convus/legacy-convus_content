@@ -1,6 +1,6 @@
 ---
 id: 3W
-hypothesis: Light pollution is very harmful to wildlife
+hypothesis: Light pollution is very harmful to wildlife.
 topics:
 - Environment
 - Light pollution

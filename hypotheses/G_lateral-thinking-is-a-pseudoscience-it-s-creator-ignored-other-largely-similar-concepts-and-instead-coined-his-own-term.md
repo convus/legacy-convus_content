@@ -1,7 +1,7 @@
 ---
 id: G
 hypothesis: Lateral thinking is a pseudoscience, it’s creator ignored other largely
-  similar concepts and instead coined his own term
+  similar concepts and instead coined his own term.
 topics:
 - Cognition
 - Pseudoscience

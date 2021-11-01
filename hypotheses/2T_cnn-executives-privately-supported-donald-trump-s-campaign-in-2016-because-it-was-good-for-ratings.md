@@ -1,7 +1,7 @@
 ---
 id: 2T
 hypothesis: CNN executives privately supported Donald Trump's campaign in 2016, because
-  it was good for ratings
+  it was good for ratings.
 topics:
 - Current events
 - Donald Trump

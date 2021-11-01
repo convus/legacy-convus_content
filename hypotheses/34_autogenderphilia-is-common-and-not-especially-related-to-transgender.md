@@ -1,6 +1,6 @@
 ---
 id: '34'
-hypothesis: Autogenderphilia is common and not especially related to transgender
+hypothesis: Autogenderphilia is common and not especially related to transgender.
 topics:
 - Gender
 - Sexuality

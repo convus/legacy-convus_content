@@ -1,7 +1,7 @@
 ---
 id: 4J
 hypothesis: Qualified immunity does not protect police operating in good faith and
-  should be repealed
+  should be repealed.
 topics:
 - Litigation
 - Policing

@@ -1,6 +1,6 @@
 ---
 id: '43'
-hypothesis: There is no such thing as "chronic Lyme disease."
+hypothesis: There is no such thing as "chronic Lyme disease.".
 topics:
 - Chronic disease
 - Health

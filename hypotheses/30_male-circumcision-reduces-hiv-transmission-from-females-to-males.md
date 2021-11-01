@@ -1,6 +1,6 @@
 ---
 id: '30'
-hypothesis: Male circumcision reduces HIV transmission from females to males
+hypothesis: Male circumcision reduces HIV transmission from females to males.
 topics:
 - Health
 - HIV

@@ -3,7 +3,7 @@ id: '39'
 hypothesis: Cats that are allowed to go outside are terrible for the environment;
   they devastate biodiversity. The domesticated cat is an invasive species that increases
   the effects of global warming, because birds are key to protecting ecosystems from
-  the stresses of climate change
+  the stresses of climate change.
 topics:
 - Cats
 - Environment

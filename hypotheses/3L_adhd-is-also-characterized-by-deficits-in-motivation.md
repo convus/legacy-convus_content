@@ -1,6 +1,6 @@
 ---
 id: 3L
-hypothesis: ADHD is also characterized by deficits in motivation
+hypothesis: ADHD is also characterized by deficits in motivation.
 topics:
 - ADHD
 - Attention Deficit Disorder
@@ -22,4 +22,3 @@ In addition to hyperactivity, impulsivity and inattention, ADHD impacts motivati
 
 > These findings provide evidence that disruption of the dopamine reward pathway is associated with motivation deficits in ADHD adults
 > ref:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3010326/pdf/nihms229585.pdf
-

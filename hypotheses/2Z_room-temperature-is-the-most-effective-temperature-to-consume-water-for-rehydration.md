@@ -1,7 +1,7 @@
 ---
 id: 2Z
 hypothesis: Room temperature is the most effective temperature to consume water for
-  rehydration
+  rehydration.
 topics:
 - Athletics
 - Health
@@ -31,5 +31,3 @@ Room temperature water makes optimal hydration more likely:
 
 > Water at 16°C induced higher intake (6.4 ml/ kg) together with lower sweating (0.54 ± 0.03 g), which can result in optimum level of hydration
 > ref:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762624/pdf/ijcem0006-0683.pdf
-
-

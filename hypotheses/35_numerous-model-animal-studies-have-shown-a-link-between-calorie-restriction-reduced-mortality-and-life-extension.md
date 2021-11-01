@@ -1,7 +1,7 @@
 ---
 id: '35'
 hypothesis: Numerous model animal studies have shown a link between calorie restriction,
-  reduced mortality, and life extension
+  reduced mortality, and life extension.
 topics:
 - Fasting
 - Health

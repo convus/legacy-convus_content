@@ -1,6 +1,6 @@
 ---
 id: 3S
-hypothesis: Smarter people are less likely to detect the bias in their own judgements
+hypothesis: Smarter people are less likely to detect the bias in their own judgements.
 topics:
 - Bias
 - Cognition

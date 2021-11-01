@@ -1,7 +1,7 @@
 ---
 id: 3Z
 hypothesis: The race of police shooting victims is proportional to the race of other
-  shooting victims in the United States
+  shooting victims in the United States.
 topics:
 - Crime
 - New York City

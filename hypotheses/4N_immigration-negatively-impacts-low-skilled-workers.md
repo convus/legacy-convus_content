@@ -1,6 +1,6 @@
 ---
 id: 4N
-hypothesis: Immigration negatively impacts low skilled workers
+hypothesis: Immigration negatively impacts low skilled workers.
 topics:
 - Economics
 - Immigration
@@ -47,4 +47,3 @@ This will become a citation challenge (once that is possible) to:
 
 > Given that at least 60% of the Marielitos were high school dropouts, this article specifically examines the wage impact for this low-skill group. This analysis over- turns the prior finding that the Mariel boatlift did not affect Miami’s wage structure. The wage of high school dropouts in Miami dropped dramatically, by 10 to 30%
 > ref:https://scholar.harvard.edu/files/gborjas/files/ilrr2017.pdf
-

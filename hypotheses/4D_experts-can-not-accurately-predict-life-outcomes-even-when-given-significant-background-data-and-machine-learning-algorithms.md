@@ -1,7 +1,7 @@
 ---
 id: 4D
 hypothesis: Experts can not accurately predict life outcomes, even when given significant
-  background data and machine learning algorithms
+  background data and machine learning algorithms.
 topics:
 - Childhood
 - Life outcomes

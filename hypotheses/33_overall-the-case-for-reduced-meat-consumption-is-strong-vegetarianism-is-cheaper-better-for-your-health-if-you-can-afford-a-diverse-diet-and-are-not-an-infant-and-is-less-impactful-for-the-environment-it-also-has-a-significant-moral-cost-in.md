@@ -3,7 +3,7 @@ id: '33'
 hypothesis: Overall, the case for reduced meat consumption is strong. Vegetarianism
   is cheaper, better for your health (if you can afford a diverse diet and are not
   an infant), and is less impactful for the environment. It also has a significant
-  moral cost in terms of animal suffering
+  moral cost in terms of animal suffering.
 topics:
 - Diet
 - Environmentalism

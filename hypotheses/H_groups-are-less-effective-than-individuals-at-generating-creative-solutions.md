@@ -1,6 +1,6 @@
 ---
 id: H
-hypothesis: Groups are less effective than individuals at generating creative solutions
+hypothesis: Groups are less effective than individuals at generating creative solutions.
 topics:
 - Cognition
 - Creative thinking

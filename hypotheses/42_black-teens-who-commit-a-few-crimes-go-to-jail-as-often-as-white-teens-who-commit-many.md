@@ -1,7 +1,7 @@
 ---
 id: '42'
 hypothesis: Black teens who commit a few crimes go to jail as often as white teens
-  who commit many
+  who commit many.
 topics:
 - Jail
 - Policing

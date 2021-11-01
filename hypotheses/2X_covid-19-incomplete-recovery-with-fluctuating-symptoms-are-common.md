@@ -1,6 +1,6 @@
 ---
 id: 2X
-hypothesis: COVID-19 incomplete recovery, with fluctuating symptoms, are common
+hypothesis: COVID-19 incomplete recovery, with fluctuating symptoms, are common.
 topics:
 - COVID-19
 - Long term COVID-19 effects

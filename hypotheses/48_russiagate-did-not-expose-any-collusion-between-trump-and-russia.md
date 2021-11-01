@@ -1,6 +1,6 @@
 ---
 id: '48'
-hypothesis: "#Russiagate did not expose any collusion between Trump and Russia"
+hypothesis: "#Russiagate did not expose any collusion between Trump and Russia."
 topics:
 - Russiagate
 - Trump

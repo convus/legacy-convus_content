@@ -1,7 +1,7 @@
 ---
 id: 4H
 hypothesis: Elderly patients 23% more likely to die if their emergency surgery takes
-  place on the surgeon’s birthday
+  place on the surgeon’s birthday.
 topics:
 - Health
 - Mortality

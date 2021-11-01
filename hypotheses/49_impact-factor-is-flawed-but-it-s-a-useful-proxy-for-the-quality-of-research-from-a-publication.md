@@ -1,7 +1,7 @@
 ---
 id: '49'
 hypothesis: Impact factor is flawed, but it's a useful proxy for the quality of research
-  from a publication
+  from a publication.
 topics:
 - Impact factor
 - Peer review

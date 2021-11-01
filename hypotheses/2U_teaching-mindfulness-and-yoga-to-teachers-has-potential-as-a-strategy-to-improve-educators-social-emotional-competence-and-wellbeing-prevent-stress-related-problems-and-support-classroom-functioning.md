@@ -2,7 +2,7 @@
 id: 2U
 hypothesis: Teaching mindfulness and yoga to teachers has potential as a strategy
   to improve educators' social-emotional competence and wellbeing, prevent stress-related
-  problems, and support classroom functioning
+  problems, and support classroom functioning.
 topics:
 - Education
 - Health

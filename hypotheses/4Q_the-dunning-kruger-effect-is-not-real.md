@@ -1,6 +1,6 @@
 ---
 id: 4Q
-hypothesis: The Dunning-Kruger effect is not real
+hypothesis: The Dunning-Kruger effect is not real.
 topics:
 - Bias
 - Cognition

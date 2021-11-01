@@ -1,6 +1,6 @@
 ---
 id: J
-hypothesis: The earth is roughly spherical
+hypothesis: The earth is roughly spherical.
 topics:
 - Earth
 - Space

@@ -1,7 +1,7 @@
 ---
 id: 3A
 hypothesis: Dual-flush toilets waste more water than they save because they are more
-  likely to leak
+  likely to leak.
 topics:
 - Environment
 - Toilets

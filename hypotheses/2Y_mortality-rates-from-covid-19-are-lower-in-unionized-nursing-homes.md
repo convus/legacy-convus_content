@@ -1,6 +1,6 @@
 ---
 id: 2Y
-hypothesis: Mortality rates from COVID-19 are lower in unionized nursing homes
+hypothesis: Mortality rates from COVID-19 are lower in unionized nursing homes.
 topics:
 - COVID-19
 - Health

@@ -1,7 +1,7 @@
 ---
 id: '47'
 hypothesis: The largest impact an average United States resident can have on reducing
-  emissions is by switching to an electric car
+  emissions is by switching to an electric car.
 topics:
 - Cars
 - Electric cars
@@ -37,4 +37,3 @@ In Carbon Costs Quantified, switching from an SUV to a generic car, and a generi
 > Switch SUV to generic car: 6,600 Lbs.
 > Switch generic car to Tesla: 6,750 Lbs
 > ref:https://astralcodexten.substack.com/p/carbon-costs-quantified
-

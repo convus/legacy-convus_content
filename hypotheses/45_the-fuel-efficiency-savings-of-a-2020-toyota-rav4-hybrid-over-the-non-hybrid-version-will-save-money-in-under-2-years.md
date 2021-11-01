@@ -1,7 +1,7 @@
 ---
 id: '45'
 hypothesis: The fuel efficiency savings of a 2020 Toyota RAV4 Hybrid, over the non-hybrid
-  version, will save money in under 2 years
+  version, will save money in under 2 years.
 topics:
 - Cars
 - Emissions

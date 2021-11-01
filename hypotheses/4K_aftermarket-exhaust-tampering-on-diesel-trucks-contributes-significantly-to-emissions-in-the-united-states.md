@@ -1,7 +1,7 @@
 ---
 id: 4K
 hypothesis: Aftermarket exhaust tampering on diesel trucks contributes significantly
-  to emissions in the United States
+  to emissions in the United States.
 topics:
 - Emissions
 - Environment
